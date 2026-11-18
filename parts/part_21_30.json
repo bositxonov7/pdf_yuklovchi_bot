@@ -1,0 +1,1342 @@
+{
+ "units": {
+  "21": {
+   "title": "Clothes",
+   "rows": [
+    [
+     "stylish",
+     "zamonaviy, ko'rkam kiyingan"
+    ],
+    [
+     "well-dressed",
+     "yaxshi kiyingan"
+    ],
+    [
+     "smartly dressed",
+     "ozoda, rasmiy kiyingan"
+    ],
+    [
+     "casual",
+     "kundalik, norasmiy (kiyim)"
+    ],
+    [
+     "necklace",
+     "bo'yinbog' (taqinchoq)"
+    ],
+    [
+     "button",
+     "tugma"
+    ],
+    [
+     "suit",
+     "kostyum"
+    ],
+    [
+     "earring",
+     "sirg'a"
+    ],
+    [
+     "top",
+     "ustki kiyim (ayollar kofta-bluzkasi)"
+    ],
+    [
+     "bracelet",
+     "bilaguzuk"
+    ],
+    [
+     "ring",
+     "uzuk"
+    ],
+    [
+     "skirt",
+     "yubka"
+    ],
+    [
+     "boots",
+     "etik, botinka"
+    ],
+    [
+     "tights",
+     "kolgotka"
+    ],
+    [
+     "sleeve",
+     "yeng"
+    ],
+    [
+     "tie",
+     "galstuk"
+    ],
+    [
+     "collar",
+     "yoqa"
+    ],
+    [
+     "scarf",
+     "sharf, ro'mol"
+    ],
+    [
+     "pocket",
+     "cho'ntak"
+    ],
+    [
+     "cap",
+     "kepka"
+    ],
+    [
+     "rucksack",
+     "ryukzak"
+    ],
+    [
+     "jumper / sweater",
+     "sviter, kofta"
+    ],
+    [
+     "jacket",
+     "kurtka, pidjak"
+    ],
+    [
+     "T-shirt",
+     "futbolka"
+    ],
+    [
+     "trainers",
+     "krossovkalar"
+    ],
+    [
+     "jeans",
+     "jinsi shim"
+    ],
+    [
+     "zip",
+     "zamok (molniya)"
+    ],
+    [
+     "get dressed",
+     "kiyinmoq"
+    ],
+    [
+     "put on",
+     "kiymoq"
+    ],
+    [
+     "take off",
+     "yechmoq"
+    ],
+    [
+     "undo a zip",
+     "zamokni ochmoq"
+    ],
+    [
+     "do up a zip",
+     "zamokni yopmoq"
+    ],
+    [
+     "suit someone",
+     "kimgadir yarashmoq"
+    ],
+    [
+     "dark / bright colours",
+     "to'q / yorqin ranglar"
+    ],
+    [
+     "change into",
+     "(boshqa kiyimga) almashtirib kiymoq"
+    ],
+    [
+     "a pair of jeans",
+     "bir juft jinsi shim"
+    ],
+    [
+     "trousers",
+     "shim"
+    ]
+   ]
+  },
+  "22": {
+   "title": "Fashion and buying clothes",
+   "rows": [
+    [
+     "shop",
+     "do'konda xarid qilmoq"
+    ],
+    [
+     "try on clothes",
+     "kiyim kiyib ko'rmoq"
+    ],
+    [
+     "fashionable",
+     "modaga mos, zamonaviy"
+    ],
+    [
+     "in fashion",
+     "modada"
+    ],
+    [
+     "wardrobe",
+     "kiyim shkafi"
+    ],
+    [
+     "designer labels",
+     "mashhur dizayner brendlari"
+    ],
+    [
+     "reasonable (price)",
+     "o'rtacha, o'rinli (narx)"
+    ],
+    [
+     "dress in",
+     "(biror xil) kiyinmoq"
+    ],
+    [
+     "go with",
+     "(bilan) mos tushmoq"
+    ],
+    [
+     "match",
+     "rangi/turi mos kelmoq"
+    ],
+    [
+     "suit",
+     "yarashmoq"
+    ],
+    [
+     "fit",
+     "o'lchami mos kelmoq"
+    ],
+    [
+     "shop assistant",
+     "sotuvchi"
+    ],
+    [
+     "customer",
+     "xaridor"
+    ],
+    [
+     "serve (customers)",
+     "(xaridorga) xizmat ko'rsatmoq"
+    ],
+    [
+     "I'm being served",
+     "menga xizmat ko'rsatishyapti"
+    ],
+    [
+     "size",
+     "o'lcham"
+    ],
+    [
+     "tight",
+     "tor, siqadigan"
+    ],
+    [
+     "loose",
+     "keng, bo'sh"
+    ],
+    [
+     "that's a shame / pity",
+     "afsus, achinarli"
+    ],
+    [
+     "I'll leave it",
+     "olmayman, qoldiraman"
+    ],
+    [
+     "I'll take it",
+     "olaman"
+    ],
+    [
+     "look for",
+     "qidirmoq"
+    ],
+    [
+     "changing room",
+     "kiyim almashtirish xonasi"
+    ]
+   ]
+  },
+  "23": {
+   "title": "Shopping",
+   "rows": [
+    [
+     "sweets",
+     "shirinliklar, konfetlar"
+    ],
+    [
+     "shelves",
+     "javonlar"
+    ],
+    [
+     "checkout",
+     "kassa (to'lov joyi)"
+    ],
+    [
+     "trolley",
+     "xarid aravachasi"
+    ],
+    [
+     "basket",
+     "savat"
+    ],
+    [
+     "fresh",
+     "yangi, toza (yangi pishgan)"
+    ],
+    [
+     "entrance",
+     "kirish joyi"
+    ],
+    [
+     "queue",
+     "navbat"
+    ],
+    [
+     "item",
+     "buyum, mahsulot"
+    ],
+    [
+     "likely",
+     "ehtimoli bor, ehtimol"
+    ],
+    [
+     "special offer",
+     "maxsus taklif, chegirma"
+    ],
+    [
+     "make us spend more",
+     "bizni ko'proq sarflashga majbur qilmoq"
+    ],
+    [
+     "throw away",
+     "tashlab yubormoq"
+    ],
+    [
+     "rearrange",
+     "qayta joylashtirmoq"
+    ],
+    [
+     "shopping centre",
+     "savdo markazi"
+    ],
+    [
+     "under one roof",
+     "bir tom ostida"
+    ],
+    [
+     "convenient",
+     "qulay"
+    ],
+    [
+     "a wide range of",
+     "turli xil, keng assortiment"
+    ],
+    [
+     "replace",
+     "almashtirmoq"
+    ],
+    [
+     "refund",
+     "pulni qaytarish"
+    ],
+    [
+     "atmosphere",
+     "muhit, ruhiyat"
+    ],
+    [
+     "stall",
+     "peshtaxta, rasta"
+    ],
+    [
+     "street market",
+     "ko'cha bozori"
+    ],
+    [
+     "haggle",
+     "savdolashmoq"
+    ],
+    [
+     "take back",
+     "qaytarib bermoq"
+    ],
+    [
+     "agree a lower price",
+     "arzonroq narxga kelishmoq"
+    ]
+   ]
+  },
+  "24": {
+   "title": "Food",
+   "rows": [
+    [
+     "pineapple",
+     "ananas"
+    ],
+    [
+     "peach",
+     "shaftoli"
+    ],
+    [
+     "strawberry",
+     "qulupnay"
+    ],
+    [
+     "bunch of grapes",
+     "bir shingil uzum"
+    ],
+    [
+     "pear",
+     "nok"
+    ],
+    [
+     "melon",
+     "qovun"
+    ],
+    [
+     "olives",
+     "zaytun"
+    ],
+    [
+     "lemon",
+     "limon"
+    ],
+    [
+     "coconut",
+     "kokos"
+    ],
+    [
+     "beans",
+     "loviya"
+    ],
+    [
+     "peas",
+     "no'xat"
+    ],
+    [
+     "onion",
+     "piyoz"
+    ],
+    [
+     "garlic",
+     "sarimsoq"
+    ],
+    [
+     "carrot",
+     "sabzi"
+    ],
+    [
+     "mushrooms",
+     "qo'ziqorin"
+    ],
+    [
+     "aubergine",
+     "baqlajon"
+    ],
+    [
+     "courgette",
+     "qovoqcha (kabachok)"
+    ],
+    [
+     "pepper",
+     "qalampir"
+    ],
+    [
+     "cabbage",
+     "karam"
+    ],
+    [
+     "broccoli",
+     "brokkoli"
+    ],
+    [
+     "spinach",
+     "ismaloq"
+    ],
+    [
+     "salad",
+     "salat"
+    ],
+    [
+     "lettuce",
+     "salat bargi"
+    ],
+    [
+     "tomato",
+     "pomidor"
+    ],
+    [
+     "cucumber",
+     "bodring"
+    ],
+    [
+     "oil",
+     "yog'"
+    ],
+    [
+     "vinegar",
+     "sirka"
+    ],
+    [
+     "salad dressing",
+     "salat sousi"
+    ],
+    [
+     "cow",
+     "sigir"
+    ],
+    [
+     "calf",
+     "buzoq"
+    ],
+    [
+     "lamb",
+     "qo'zi (go'shti)"
+    ],
+    [
+     "pig",
+     "cho'chqa"
+    ],
+    [
+     "chicken / hen",
+     "tovuq"
+    ],
+    [
+     "beef",
+     "mol go'shti"
+    ],
+    [
+     "veal",
+     "buzoq go'shti"
+    ],
+    [
+     "pork",
+     "cho'chqa go'shti"
+    ],
+    [
+     "vegetarian",
+     "vegetarian (go'sht yemaydigan)"
+    ],
+    [
+     "salmon",
+     "losos (baliq)"
+    ],
+    [
+     "prawns",
+     "krevetka"
+    ],
+    [
+     "mussels",
+     "midiya"
+    ],
+    [
+     "crab",
+     "qisqichbaqa"
+    ]
+   ]
+  },
+  "25": {
+   "title": "Cooking",
+   "rows": [
+    [
+     "boil",
+     "qaynatmoq"
+    ],
+    [
+     "fry",
+     "qovurmoq"
+    ],
+    [
+     "grill",
+     "panjarada (gril) pishirmoq"
+    ],
+    [
+     "roast",
+     "dimlab pishirmoq (yog'da, pechda)"
+    ],
+    [
+     "bake",
+     "pechda yopmoq"
+    ],
+    [
+     "barbecue",
+     "mangalda pishirmoq"
+    ],
+    [
+     "raw",
+     "xom"
+    ],
+    [
+     "saucepan",
+     "kastryulka"
+    ],
+    [
+     "frying pan",
+     "qovurish tavasi"
+    ],
+    [
+     "oven",
+     "duxovka"
+    ],
+    [
+     "peel",
+     "po'stini archmoq"
+    ],
+    [
+     "chop",
+     "mayda to'g'ramoq"
+    ],
+    [
+     "add",
+     "qo'shmoq"
+    ],
+    [
+     "stir",
+     "aralashtirmoq"
+    ],
+    [
+     "taste (v)",
+     "tatib ko'rmoq"
+    ],
+    [
+     "taste (n)",
+     "ta'm"
+    ],
+    [
+     "tasty",
+     "mazali"
+    ],
+    [
+     "spicy",
+     "achchiq, ziravorli"
+    ],
+    [
+     "flavour",
+     "ta'm, mazasi"
+    ],
+    [
+     "horrible",
+     "jirkanch, yoqimsiz"
+    ],
+    [
+     "delicious",
+     "juda mazali"
+    ],
+    [
+     "sour",
+     "nordon"
+    ],
+    [
+     "bitter",
+     "achchiq (kofe kabi)"
+    ],
+    [
+     "sweet",
+     "shirin"
+    ],
+    [
+     "smooth",
+     "yumshoq (ta'mi)"
+    ],
+    [
+     "chef",
+     "oshpaz"
+    ],
+    [
+     "recipe",
+     "retsept"
+    ],
+    [
+     "ingredients",
+     "masalliqlar"
+    ],
+    [
+     "pie",
+     "pirog"
+    ],
+    [
+     "cooker",
+     "plita (oshxona jihozi)"
+    ],
+    [
+     "good cook",
+     "yaxshi oshpaz"
+    ],
+    [
+     "good at cooking",
+     "pishirishga usta"
+    ],
+    [
+     "make a dish",
+     "taom tayyorlamoq"
+    ]
+   ]
+  },
+  "26": {
+   "title": "City life",
+   "rows": [
+    [
+     "rush hour",
+     "gavjum soat (tirbandlik vaqti)"
+    ],
+    [
+     "in a hurry",
+     "shoshilib"
+    ],
+    [
+     "get stuck",
+     "tiqilib qolmoq"
+    ],
+    [
+     "traffic jam",
+     "tirbandlik"
+    ],
+    [
+     "park",
+     "mashina qo'ymoq (to'xtatmoq)"
+    ],
+    [
+     "car park",
+     "avtoturargoh"
+    ],
+    [
+     "parking space",
+     "to'xtash joyi"
+    ],
+    [
+     "stressful",
+     "asabiylashtiradigan"
+    ],
+    [
+     "stressed",
+     "asabiylashgan, zo'riqqan"
+    ],
+    [
+     "exhausted",
+     "juda charchagan"
+    ],
+    [
+     "nightlife",
+     "tungi hayot"
+    ],
+    [
+     "advantage",
+     "afzallik"
+    ],
+    [
+     "disadvantage",
+     "kamchilik"
+    ],
+    [
+     "lively",
+     "jonli, gavjum"
+    ],
+    [
+     "a wide variety of",
+     "turli-tuman"
+    ],
+    [
+     "cultural activities",
+     "madaniy tadbirlar"
+    ],
+    [
+     "cinema",
+     "kino"
+    ],
+    [
+     "theatre",
+     "teatr"
+    ],
+    [
+     "concert",
+     "konsert"
+    ],
+    [
+     "art gallery",
+     "san'at galereyasi"
+    ],
+    [
+     "crowded",
+     "gavjum, odam ko'p"
+    ],
+    [
+     "dirty / clean",
+     "iflos / toza"
+    ],
+    [
+     "dangerous / safe",
+     "xavfli / xavfsiz"
+    ],
+    [
+     "pollution",
+     "ifloslanish"
+    ],
+    [
+     "crime rate",
+     "jinoyatchilik darajasi"
+    ],
+    [
+     "at night",
+     "kechasi"
+    ],
+    [
+     "good value for money",
+     "pulga arziydigan"
+    ],
+    [
+     "a mix of people",
+     "turli odamlar aralashmasi"
+    ],
+    [
+     "something going on",
+     "nimadir sodir bo'layotgan"
+    ],
+    [
+     "dull / exciting",
+     "zerikarli / hayajonli"
+    ],
+    [
+     "town centre",
+     "shahar markazi"
+    ]
+   ]
+  },
+  "27": {
+   "title": "Life in the country",
+   "rows": [
+    [
+     "countryside",
+     "qishloq joylar, tabiat"
+    ],
+    [
+     "surrounded by nature",
+     "tabiat qurshovida"
+    ],
+    [
+     "bank (of a river)",
+     "(daryo) qirg'og'i"
+    ],
+    [
+     "woods",
+     "o'rmon, daraxtzor"
+    ],
+    [
+     "pick",
+     "termoq"
+    ],
+    [
+     "season",
+     "fasl"
+    ],
+    [
+     "scenery",
+     "manzara"
+    ],
+    [
+     "open spaces",
+     "ochiq maydonlar"
+    ],
+    [
+     "fresh air",
+     "toza havo"
+    ],
+    [
+     "own",
+     "egalik qilmoq"
+    ],
+    [
+     "keep (animals)",
+     "(hayvon) boqmoq"
+    ],
+    [
+     "grow crops",
+     "ekin yetishtirmoq"
+    ],
+    [
+     "barley",
+     "arpa"
+    ],
+    [
+     "wheat",
+     "bug'doy"
+    ],
+    [
+     "farm",
+     "ferma"
+    ],
+    [
+     "farming",
+     "dehqonchilik"
+    ],
+    [
+     "be up",
+     "uyg'oq bo'lmoq"
+    ],
+    [
+     "sunset",
+     "quyosh botishi"
+    ],
+    [
+     "hill",
+     "tepalik"
+    ],
+    [
+     "valley",
+     "vodiy"
+    ],
+    [
+     "tree",
+     "daraxt"
+    ],
+    [
+     "branches",
+     "shoxlar"
+    ],
+    [
+     "leaves",
+     "barglar"
+    ],
+    [
+     "plants",
+     "o'simliklar"
+    ],
+    [
+     "ground",
+     "yer"
+    ],
+    [
+     "grass",
+     "o't"
+    ],
+    [
+     "roots",
+     "ildizlar"
+    ],
+    [
+     "farmhouse",
+     "fermer uyi"
+    ],
+    [
+     "field",
+     "dala"
+    ],
+    [
+     "fence",
+     "devor, to'siq"
+    ],
+    [
+     "gate",
+     "darvoza"
+    ],
+    [
+     "tractor",
+     "traktor"
+    ],
+    [
+     "footpath",
+     "piyodalar yo'lkasi"
+    ],
+    [
+     "village",
+     "qishloq"
+    ],
+    [
+     "public transport",
+     "jamoat transporti"
+    ],
+    [
+     "hopeless",
+     "juda yomon, umidsiz"
+    ],
+    [
+     "pub",
+     "pab (ichimlik joyi)"
+    ]
+   ]
+  },
+  "28": {
+   "title": "Transport",
+   "rows": [
+    [
+     "vehicle",
+     "transport vositasi"
+    ],
+    [
+     "bus",
+     "avtobus"
+    ],
+    [
+     "coach",
+     "uzoq yo'l avtobusi"
+    ],
+    [
+     "van",
+     "furgon"
+    ],
+    [
+     "bicycle",
+     "velosiped"
+    ],
+    [
+     "motorbike",
+     "mototsikl"
+    ],
+    [
+     "lorry / truck",
+     "yuk mashinasi"
+    ],
+    [
+     "driver",
+     "haydovchi"
+    ],
+    [
+     "pilot",
+     "uchuvchi"
+    ],
+    [
+     "cyclist",
+     "velosipedchi"
+    ],
+    [
+     "fare",
+     "yo'l haqi"
+    ],
+    [
+     "airfare",
+     "aviachipta narxi"
+    ],
+    [
+     "catch a bus",
+     "avtobusga ulgurmoq (minmoq)"
+    ],
+    [
+     "get on / off",
+     "(transportga) minmoq / tushmoq"
+    ],
+    [
+     "get in / out (of a taxi)",
+     "taksiga kirmoq / tushmoq"
+    ],
+    [
+     "go by bus",
+     "avtobusda bormoq"
+    ],
+    [
+     "ride a bike",
+     "velosiped haydamoq"
+    ],
+    [
+     "fly",
+     "uchmoq"
+    ],
+    [
+     "bus stop",
+     "avtobus bekati"
+    ],
+    [
+     "station",
+     "vokzal, bekat"
+    ],
+    [
+     "platform",
+     "platforma"
+    ],
+    [
+     "taxi rank",
+     "taksi to'xtash joyi"
+    ],
+    [
+     "journey",
+     "safar, yo'l"
+    ],
+    [
+     "flight",
+     "reys"
+    ],
+    [
+     "convenient",
+     "qulay"
+    ],
+    [
+     "queue",
+     "navbat"
+    ],
+    [
+     "complain about",
+     "(dan) shikoyat qilmoq"
+    ],
+    [
+     "complaint",
+     "shikoyat"
+    ],
+    [
+     "reliable",
+     "ishonchli"
+    ],
+    [
+     "round the corner",
+     "burchakda, yaqinida"
+    ],
+    [
+     "return (ticket)",
+     "borib-qaytish bileti"
+    ],
+    [
+     "single (ticket)",
+     "bir tomonlama bilet"
+    ],
+    [
+     "season ticket",
+     "abonement bileti"
+    ],
+    [
+     "miss (a train)",
+     "(poyezdga) kech qolmoq"
+    ],
+    [
+     "bus service",
+     "avtobus qatnovi"
+    ],
+    [
+     "run (every ten minutes)",
+     "qatnamoq (har 10 daqiqada)"
+    ]
+   ]
+  },
+  "29": {
+   "title": "On the road",
+   "rows": [
+    [
+     "traffic lights",
+     "svetofor"
+    ],
+    [
+     "junction",
+     "chorraha"
+    ],
+    [
+     "bend",
+     "egilish, burilish"
+    ],
+    [
+     "no overtaking",
+     "quvib o'tish taqiqlanadi"
+    ],
+    [
+     "speed limit",
+     "tezlik chegarasi"
+    ],
+    [
+     "road signs",
+     "yo'l belgilari"
+    ],
+    [
+     "pedestrian crossing",
+     "piyodalar o'tish joyi"
+    ],
+    [
+     "bridge",
+     "ko'prik"
+    ],
+    [
+     "motorway",
+     "avtomagistral"
+    ],
+    [
+     "slow lane",
+     "sekin harakat qatori"
+    ],
+    [
+     "fast lane",
+     "tez harakat qatori"
+    ],
+    [
+     "lane",
+     "yo'l qatori"
+    ],
+    [
+     "roundabout",
+     "aylana (halqa) chorraha"
+    ],
+    [
+     "get lost",
+     "adashib qolmoq"
+    ],
+    [
+     "on my way to",
+     "... ga ketayotganda"
+    ],
+    [
+     "go via",
+     "... orqali o'tmoq"
+    ],
+    [
+     "wrong turning",
+     "noto'g'ri burilish"
+    ],
+    [
+     "end up",
+     "oxiri ... ga borib qolmoq"
+    ],
+    [
+     "ask the way",
+     "yo'l so'ramoq"
+    ],
+    [
+     "direct someone",
+     "yo'l ko'rsatmoq"
+    ],
+    [
+     "follow signs",
+     "belgilarga ergashmoq"
+    ],
+    [
+     "accident",
+     "baxtsiz hodisa"
+    ],
+    [
+     "main road",
+     "asosiy yo'l"
+    ],
+    [
+     "pedestrian",
+     "piyoda"
+    ],
+    [
+     "pavement",
+     "yo'lak, trotuar"
+    ],
+    [
+     "approach",
+     "yaqinlashmoq"
+    ],
+    [
+     "brake",
+     "tormoz bermoq"
+    ],
+    [
+     "swerve",
+     "keskin burilmoq"
+    ],
+    [
+     "crash into",
+     "(ga) urilmoq"
+    ],
+    [
+     "parked car",
+     "to'xtatib qo'yilgan mashina"
+    ],
+    [
+     "damage",
+     "zarar yetkazmoq; zarar"
+    ],
+    [
+     "injure",
+     "jarohatlamoq"
+    ],
+    [
+     "injury",
+     "jarohat"
+    ],
+    [
+     "overtake",
+     "quvib o'tmoq"
+    ]
+   ]
+  },
+  "30": {
+   "title": "Notices and warnings",
+   "rows": [
+    [
+     "out of order",
+     "ishlamayapti (buzuq)"
+    ],
+    [
+     "full / no vacancies",
+     "joy yo'q (mehmonxona)"
+    ],
+    [
+     "sold out",
+     "chiptalar sotilgan"
+    ],
+    [
+     "admission free",
+     "kirish bepul"
+    ],
+    [
+     "vending machine",
+     "savdo avtomati"
+    ],
+    [
+     "queue here",
+     "shu yerda navbatda turing"
+    ],
+    [
+     "keep right",
+     "o'ng tomonda yuring"
+    ],
+    [
+     "keep off the grass",
+     "maysaga chiqmang"
+    ],
+    [
+     "silence, examination in progress",
+     "jimlik, imtihon ketmoqda"
+    ],
+    [
+     "no parking",
+     "to'xtash taqiqlanadi"
+    ],
+    [
+     "no exit",
+     "chiqish yo'q"
+    ],
+    [
+     "no entry",
+     "kirish taqiqlanadi"
+    ],
+    [
+     "do not disturb",
+     "bezovta qilmang"
+    ],
+    [
+     "mind your head",
+     "boshingizni ehtiyot qiling"
+    ],
+    [
+     "mind the step",
+     "zinapoyaga ehtiyot bo'ling"
+    ],
+    [
+     "take care",
+     "ehtiyot bo'ling"
+    ],
+    [
+     "be careful",
+     "ehtiyot bo'ling"
+    ],
+    [
+     "fragile",
+     "mo'rt, sinuvchan"
+    ],
+    [
+     "do not leave bags unattended",
+     "sumkalarni qarovsiz qoldirmang"
+    ],
+    [
+     "do not feed the animals",
+     "hayvonlarni boqmang"
+    ],
+    [
+     "warning",
+     "ogohlantirish"
+    ],
+    [
+     "notice",
+     "e'lon, yozuv"
+    ],
+    [
+     "low door",
+     "past eshik"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,10 @@
+services:
+  vocab-bot:
+    build: .
+    container_name: vocab_bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./state.json:/app/state.json
+      - ./pdfs:/app/pdfs

@@ -1,0 +1,1282 @@
+{
+ "units": {
+  "91": {
+   "title": "Adverbs",
+   "rows": [
+    [
+     "always",
+     "doim"
+    ],
+    [
+     "often",
+     "tez-tez"
+    ],
+    [
+     "frequently",
+     "tez-tez, ko'p marta"
+    ],
+    [
+     "quite often",
+     "ancha tez-tez"
+    ],
+    [
+     "sometimes",
+     "ba'zan"
+    ],
+    [
+     "occasionally",
+     "vaqti-vaqti bilan"
+    ],
+    [
+     "hardly ever",
+     "deyarli hech qachon"
+    ],
+    [
+     "rarely",
+     "kamdan-kam"
+    ],
+    [
+     "seldom (fml)",
+     "kamdan-kam (rasmiy)"
+    ],
+    [
+     "never",
+     "hech qachon"
+    ],
+    [
+     "a bit (infml)",
+     "biroz"
+    ],
+    [
+     "a little (bit)",
+     "biroz, ozgina"
+    ],
+    [
+     "slightly",
+     "ozgina, sal"
+    ],
+    [
+     "quite",
+     "ancha"
+    ],
+    [
+     "fairly",
+     "ancha, nisbatan"
+    ],
+    [
+     "rather",
+     "ancha (biroz kuchliroq)"
+    ],
+    [
+     "pretty (infml)",
+     "ancha, yetarlicha"
+    ],
+    [
+     "completely",
+     "butunlay"
+    ],
+    [
+     "totally",
+     "mutlaqo, butunlay"
+    ],
+    [
+     "extremely",
+     "nihoyatda"
+    ],
+    [
+     "incredibly",
+     "aql bovar qilmas darajada"
+    ],
+    [
+     "secretly",
+     "yashirincha"
+    ],
+    [
+     "quietly",
+     "tinchgina, ovozsiz"
+    ],
+    [
+     "suddenly",
+     "to'satdan"
+    ],
+    [
+     "urgently",
+     "shoshilinch, zudlik bilan"
+    ],
+    [
+     "briefly",
+     "qisqacha, qisqa vaqt"
+    ],
+    [
+     "politely",
+     "xushmuomalalik bilan"
+    ],
+    [
+     "angrily",
+     "jahl bilan"
+    ],
+    [
+     "adverbs of frequency",
+     "takror ravishlari"
+    ],
+    [
+     "adverbs of degree",
+     "daraja ravishlari"
+    ],
+    [
+     "adverbs of manner",
+     "holat ravishlari"
+    ]
+   ]
+  },
+  "92": {
+   "title": "Time and sequence",
+   "rows": [
+    [
+     "when",
+     "qachonki"
+    ],
+    [
+     "as soon as",
+     "... bilanoq"
+    ],
+    [
+     "while",
+     "... paytida"
+    ],
+    [
+     "(just) as",
+     "aynan ... paytida"
+    ],
+    [
+     "then",
+     "keyin, so'ngra"
+    ],
+    [
+     "after that",
+     "shundan keyin"
+    ],
+    [
+     "afterwards",
+     "keyinroq"
+    ],
+    [
+     "after",
+     "... dan keyin"
+    ],
+    [
+     "before",
+     "... dan oldin"
+    ],
+    [
+     "first of all",
+     "avvalo, eng avval"
+    ],
+    [
+     "first",
+     "birinchi navbatda"
+    ],
+    [
+     "finally",
+     "nihoyat, oxirida"
+    ],
+    [
+     "at first",
+     "dastlab"
+    ],
+    [
+     "to begin with",
+     "boshida"
+    ],
+    [
+     "after a while",
+     "biroz vaqtdan keyin"
+    ],
+    [
+     "eventually",
+     "oxir-oqibat"
+    ],
+    [
+     "in the end",
+     "oxiri, pirovardida"
+    ],
+    [
+     "firstly",
+     "birinchidan"
+    ],
+    [
+     "secondly",
+     "ikkinchidan"
+    ],
+    [
+     "for one thing",
+     "birinchidan (sabab sifatida)"
+    ],
+    [
+     "for a start",
+     "avvalo, birinchi navbatda"
+    ],
+    [
+     "besides",
+     "bundan tashqari"
+    ],
+    [
+     "anyway",
+     "har holda, baribir"
+    ],
+    [
+     "a sequence of actions",
+     "harakatlar ketma-ketligi"
+    ],
+    [
+     "on my way to work",
+     "ishga ketayotib"
+    ],
+    [
+     "get on well",
+     "yaxshi chiqishmoq"
+    ],
+    [
+     "walk out",
+     "chiqib ketmoq"
+    ],
+    [
+     "a period of time",
+     "muayyan vaqt oralig'i"
+    ]
+   ]
+  },
+  "93": {
+   "title": "Addition and contrast",
+   "rows": [
+    [
+     "as well",
+     "ham, bundan tashqari"
+    ],
+    [
+     "too",
+     "ham"
+    ],
+    [
+     "as well as",
+     "... bilan birga, ... dan tashqari"
+    ],
+    [
+     "what's more",
+     "bundan ham muhimi"
+    ],
+    [
+     "in addition",
+     "qo'shimcha ravishda"
+    ],
+    [
+     "in addition to",
+     "... dan tashqari"
+    ],
+    [
+     "besides",
+     "bundan tashqari"
+    ],
+    [
+     "also",
+     "ham, shuningdek"
+    ],
+    [
+     "although",
+     "garchi"
+    ],
+    [
+     "even though",
+     "garchand"
+    ],
+    [
+     "despite",
+     "... ga qaramay"
+    ],
+    [
+     "despite the fact that",
+     "... ga qaramay"
+    ],
+    [
+     "in spite of",
+     "... ga qaramay"
+    ],
+    [
+     "still",
+     "baribir, hamon"
+    ],
+    [
+     "however",
+     "biroq, lekin"
+    ],
+    [
+     "yet",
+     "shunga qaramay"
+    ],
+    [
+     "though",
+     "garchi, lekin (gap oxirida)"
+    ],
+    [
+     "while",
+     "holbuki, ... bo'lsa"
+    ],
+    [
+     "whereas",
+     "holbuki, ... bo'lsa"
+    ],
+    [
+     "link word",
+     "bog'lovchi so'z"
+    ],
+    [
+     "surprising",
+     "kutilmagan, hayratlanarli"
+    ],
+    [
+     "scheme",
+     "dastur, reja"
+    ],
+    [
+     "in advance",
+     "oldindan"
+    ],
+    [
+     "good value",
+     "arziydigan (narxiga loyiq)"
+    ],
+    [
+     "speed limit",
+     "tezlik chegarasi"
+    ],
+    [
+     "keen on",
+     "... ga qiziqqan"
+    ],
+    [
+     "quick to understand",
+     "tez tushunadigan"
+    ],
+    [
+     "on time",
+     "o'z vaqtida"
+    ],
+    [
+     "delay",
+     "kechikish"
+    ]
+   ]
+  },
+  "94": {
+   "title": "Reason, purpose, result, condition",
+   "rows": [
+    [
+     "because",
+     "chunki"
+    ],
+    [
+     "because of",
+     "... tufayli"
+    ],
+    [
+     "as / since",
+     "chunki, ... bo'lgani uchun"
+    ],
+    [
+     "so",
+     "shuning uchun"
+    ],
+    [
+     "the reason (that)",
+     "sababi shundaki"
+    ],
+    [
+     "due to",
+     "... sababli"
+    ],
+    [
+     "purpose",
+     "maqsad"
+    ],
+    [
+     "so (that)",
+     "... uchun, toki"
+    ],
+    [
+     "(in order) to",
+     "... uchun, maqsadida"
+    ],
+    [
+     "therefore",
+     "shuning uchun (rasmiy)"
+    ],
+    [
+     "as a result",
+     "natijada"
+    ],
+    [
+     "whether",
+     "... yoki yo'qligi"
+    ],
+    [
+     "unless",
+     "agar ... bo'lmasa"
+    ],
+    [
+     "otherwise",
+     "aks holda"
+    ],
+    [
+     "as long as",
+     "agar shart bilan, ... bo'lsa bas"
+    ],
+    [
+     "in case",
+     "ehtimolga qarshi, ... bo'lsa"
+    ],
+    [
+     "move house",
+     "uy almashtirmoq"
+    ],
+    [
+     "timetable",
+     "jadval"
+    ],
+    [
+     "afford",
+     "imkoni bo'lmoq"
+    ],
+    [
+     "borrow",
+     "vaqtincha olmoq"
+    ],
+    [
+     "bring back",
+     "qaytarib olib kelmoq"
+    ],
+    [
+     "turn up the music",
+     "musiqani balandlatmoq"
+    ],
+    [
+     "miss the last bus",
+     "oxirgi avtobusga ulgurmaslik"
+    ],
+    [
+     "intention",
+     "niyat"
+    ],
+    [
+     "inconvenience",
+     "noqulaylik"
+    ]
+   ]
+  },
+  "95": {
+   "title": "Formal and informal English",
+   "rows": [
+    [
+     "purchased",
+     "sotib olingan (fml)"
+    ],
+    [
+     "premises",
+     "bino, joy (fml)"
+    ],
+    [
+     "on the premises",
+     "shu joyda, bino ichida"
+    ],
+    [
+     "I regret to inform you",
+     "afsuski, shuni bildiraman"
+    ],
+    [
+     "unable to",
+     "qila olmaydigan (fml)"
+    ],
+    [
+     "not in a position to",
+     "imkonimiz yo'q (fml)"
+    ],
+    [
+     "grant",
+     "bermoq, ruxsat bermoq"
+    ],
+    [
+     "require",
+     "talab qilmoq, kerak bo'lmoq"
+    ],
+    [
+     "further assistance",
+     "qo'shimcha yordam"
+    ],
+    [
+     "contact",
+     "bog'lanmoq"
+    ],
+    [
+     "regarding",
+     "... haqida (fml)"
+    ],
+    [
+     "commence",
+     "boshlanmoq (fml)"
+    ],
+    [
+     "depart",
+     "jo'nab ketmoq (fml)"
+    ],
+    [
+     "proceed to",
+     "... tomon yo'l olmoq"
+    ],
+    [
+     "announcement",
+     "e'lon"
+    ],
+    [
+     "mate (infml)",
+     "do'st, o'rtoq"
+    ],
+    [
+     "bloke (infml)",
+     "yigit, erkak kishi"
+    ],
+    [
+     "kids (infml)",
+     "bolalar"
+    ],
+    [
+     "quite a bit (infml)",
+     "ancha tez-tez"
+    ],
+    [
+     "make it",
+     "kela olmoq"
+    ],
+    [
+     "the thing is",
+     "gap shundaki"
+    ],
+    [
+     "... or so",
+     "taxminan"
+    ],
+    [
+     "cheers (infml)",
+     "rahmat (norasmiy)"
+    ],
+    [
+     "I bet",
+     "aminmanki, ishonaman"
+    ],
+    [
+     "dying for",
+     "juda xohlamoq"
+    ],
+    [
+     "stuff",
+     "narsa, buyum"
+    ],
+    [
+     "What are you up to?",
+     "nima qilyapsiz? (norasmiy)"
+    ],
+    [
+     "terrific / great",
+     "ajoyib, a'lo"
+    ],
+    [
+     "a load of rubbish",
+     "bema'ni narsa, axlat"
+    ],
+    [
+     "formal",
+     "rasmiy"
+    ],
+    [
+     "informal",
+     "norasmiy"
+    ]
+   ]
+  },
+  "96": {
+   "title": "Completing forms and CVs",
+   "rows": [
+    [
+     "registration form",
+     "ro'yxatdan o'tish anketasi"
+    ],
+    [
+     "enrolment form",
+     "o'qishga yozilish anketasi"
+    ],
+    [
+     "entry form",
+     "imtihonga yozilish anketasi"
+    ],
+    [
+     "landing card",
+     "kirish kartochkasi"
+    ],
+    [
+     "visa application form",
+     "viza so'rovnomasi"
+    ],
+    [
+     "fill in",
+     "to'ldirmoq"
+    ],
+    [
+     "date of birth",
+     "tug'ilgan sana"
+    ],
+    [
+     "place of birth",
+     "tug'ilgan joy"
+    ],
+    [
+     "country of origin",
+     "kelib chiqqan davlat"
+    ],
+    [
+     "marital status",
+     "oilaviy ahvol"
+    ],
+    [
+     "date of arrival",
+     "kelgan sana"
+    ],
+    [
+     "date of departure",
+     "ketish sanasi"
+    ],
+    [
+     "signature",
+     "imzo"
+    ],
+    [
+     "signed",
+     "imzolangan"
+    ],
+    [
+     "curriculum vitae (CV)",
+     "tarjimai hol, rezyume"
+    ],
+    [
+     "résumé (AmE)",
+     "rezyume (amerikacha)"
+    ],
+    [
+     "personal details",
+     "shaxsiy ma'lumotlar"
+    ],
+    [
+     "education",
+     "ta'lim"
+    ],
+    [
+     "qualifications",
+     "malaka, diplomlar"
+    ],
+    [
+     "degree",
+     "ilmiy daraja, diplom"
+    ],
+    [
+     "certificate",
+     "sertifikat, guvohnoma"
+    ],
+    [
+     "work experience",
+     "ish tajribasi"
+    ],
+    [
+     "interests",
+     "qiziqishlar"
+    ],
+    [
+     "skills",
+     "ko'nikmalar"
+    ],
+    [
+     "career aims",
+     "kasbiy maqsadlar"
+    ],
+    [
+     "reference",
+     "tavsiyanoma"
+    ],
+    [
+     "personal statement",
+     "shaxsiy bayonot"
+    ],
+    [
+     "tip",
+     "maslahat"
+    ],
+    [
+     "complicated",
+     "murakkab"
+    ],
+    [
+     "relevant",
+     "tegishli, mos"
+    ],
+    [
+     "on your own",
+     "yolg'iz o'zingiz"
+    ],
+    [
+     "in a team",
+     "jamoada"
+    ],
+    [
+     "apply for a job",
+     "ishga topshirmoq"
+    ],
+    [
+     "educational background",
+     "ta'lim sohasidagi o'tmish"
+    ],
+    [
+     "single",
+     "turmushga chiqmagan / uylanmagan"
+    ],
+    [
+     "married",
+     "turmush qurgan"
+    ]
+   ]
+  },
+  "97": {
+   "title": "Writing an essay",
+   "rows": [
+    [
+     "discursive essay",
+     "muhokama insho"
+    ],
+    [
+     "point of view",
+     "nuqtai nazar"
+    ],
+    [
+     "argument",
+     "dalil, bahs"
+    ],
+    [
+     "both sides of an argument",
+     "bahsning ikki tomoni"
+    ],
+    [
+     "Some people believe that ...",
+     "ba'zilar ... deb hisoblaydi"
+    ],
+    [
+     "There is an argument that ...",
+     "... degan fikr bor"
+    ],
+    [
+     "It seems to me that ...",
+     "menimcha ..."
+    ],
+    [
+     "advantage",
+     "afzallik"
+    ],
+    [
+     "lonely",
+     "yolg'iz, yolg'izlikdan zerikkan"
+    ],
+    [
+     "company",
+     "hamrohlik, birga bo'lish"
+    ],
+    [
+     "dependent on",
+     "... ga qaram"
+    ],
+    [
+     "on the one hand",
+     "bir tomondan"
+    ],
+    [
+     "on the other (hand)",
+     "ikkinchi tomondan"
+    ],
+    [
+     "compared with / to",
+     "... bilan solishtirganda"
+    ],
+    [
+     "in the past",
+     "o'tmishda"
+    ],
+    [
+     "nowadays",
+     "hozirgi kunda"
+    ],
+    [
+     "in contrast",
+     "aksincha"
+    ],
+    [
+     "the developed world",
+     "rivojlangan dunyo"
+    ],
+    [
+     "generalisation",
+     "umumlashtirish"
+    ],
+    [
+     "in general",
+     "umuman olganda"
+    ],
+    [
+     "on the whole",
+     "umuman olganda"
+    ],
+    [
+     "tend to",
+     "moyil bo'lmoq"
+    ],
+    [
+     "cause",
+     "sabab; sabab bo'lmoq"
+    ],
+    [
+     "result",
+     "oqibat, natija"
+    ],
+    [
+     "consequently",
+     "shu sababli, natijada"
+    ],
+    [
+     "as a result",
+     "natijada"
+    ],
+    [
+     "obesity",
+     "semizlik"
+    ],
+    [
+     "lack of",
+     "... yetishmasligi"
+    ],
+    [
+     "put on weight",
+     "semirmoq"
+    ],
+    [
+     "poor diet",
+     "noto'g'ri ovqatlanish"
+    ],
+    [
+     "effect",
+     "ta'sir (ot)"
+    ],
+    [
+     "affect",
+     "ta'sir qilmoq"
+    ],
+    [
+     "have an effect on",
+     "... ga ta'sir qilmoq"
+    ],
+    [
+     "accurate",
+     "aniq, to'g'ri"
+    ],
+    [
+     "cause and effect",
+     "sabab va oqibat"
+    ]
+   ]
+  },
+  "98": {
+   "title": "Formal letters and emails",
+   "rows": [
+    [
+     "Dear Sir or Madam",
+     "Hurmatli janob yoki xonim"
+    ],
+    [
+     "Yours faithfully",
+     "hurmat bilan (ismni bilmasangiz)"
+    ],
+    [
+     "Yours sincerely",
+     "hurmat bilan (ismni bilsangiz)"
+    ],
+    [
+     "Kind regards",
+     "samimiy hurmat bilan"
+    ],
+    [
+     "I am writing in response to ...",
+     "... javob tariqasida yozyapman"
+    ],
+    [
+     "graduate",
+     "oliy ma'lumotli bitiruvchi"
+    ],
+    [
+     "I would be grateful if you could ...",
+     "... bo'lsangiz minnatdor bo'lardim"
+    ],
+    [
+     "further details",
+     "qo'shimcha ma'lumotlar"
+    ],
+    [
+     "available",
+     "bo'sh, borishga imkoni bor"
+    ],
+    [
+     "I look forward to hearing from you",
+     "javobingizni kutaman"
+    ],
+    [
+     "signature",
+     "imzo"
+    ],
+    [
+     "sign",
+     "imzo chekmoq"
+    ],
+    [
+     "regarding",
+     "... haqida"
+    ],
+    [
+     "vehicle",
+     "transport vositasi"
+    ],
+    [
+     "damage",
+     "zarar, shikast"
+    ],
+    [
+     "I regret to inform you",
+     "afsuski, bildiraman"
+    ],
+    [
+     "I am pleased to inform you",
+     "mamnuniyat bilan bildiraman"
+    ],
+    [
+     "application",
+     "ariza"
+    ],
+    [
+     "enquire about",
+     "... haqida so'ramoq"
+    ],
+    [
+     "confirm",
+     "tasdiqlamoq"
+    ],
+    [
+     "in writing",
+     "yozma ravishda"
+    ],
+    [
+     "booking",
+     "band qilish, bron"
+    ],
+    [
+     "offer support",
+     "yordam taklif qilmoq"
+    ],
+    [
+     "apologise for",
+     "... uchun uzr so'ramoq"
+    ],
+    [
+     "Please accept our apologies",
+     "uzrimizni qabul qiling"
+    ],
+    [
+     "delay",
+     "kechikish"
+    ],
+    [
+     "enclose",
+     "ilova qilmoq"
+    ],
+    [
+     "cheque",
+     "chek"
+    ],
+    [
+     "reply",
+     "javob"
+    ]
+   ]
+  },
+  "99": {
+   "title": "Informal emails and messages",
+   "rows": [
+    [
+     "Hi",
+     "salom"
+    ],
+    [
+     "Dear ...",
+     "aziz ..."
+    ],
+    [
+     "a laugh",
+     "o'ta quvnoq odam"
+    ],
+    [
+     "hope to",
+     "umid qilmoq"
+    ],
+    [
+     "be in touch",
+     "bog'lanib turmoq"
+    ],
+    [
+     "get in touch",
+     "bog'lanmoq"
+    ],
+    [
+     "fancy (infml)",
+     "xohlamoq"
+    ],
+    [
+     "give my regards to ...",
+     "... ga salom ayting"
+    ],
+    [
+     "give / send my love to ...",
+     "... ga sevgi (salom) ayting"
+    ],
+    [
+     "once again",
+     "yana bir bor"
+    ],
+    [
+     "Love / Lots of love",
+     "mehr bilan (xat oxirida)"
+    ],
+    [
+     "Best wishes",
+     "eng yaxshi tilaklar bilan"
+    ],
+    [
+     "All the best",
+     "barcha yaxshiliklar tilab"
+    ],
+    [
+     "ages",
+     "uzoq vaqt"
+    ],
+    [
+     "since",
+     "... dan beri"
+    ],
+    [
+     "let you know",
+     "sizga xabar bermoq"
+    ],
+    [
+     "in two weeks' time",
+     "ikki haftadan keyin"
+    ],
+    [
+     "actually",
+     "aslida"
+    ],
+    [
+     "in fact",
+     "aslida, haqiqatan"
+    ],
+    [
+     "get together",
+     "uchrashmoq, yig'ilmoq"
+    ],
+    [
+     "join us",
+     "bizga qo'shilmoq"
+    ],
+    [
+     "anyway",
+     "xullas, baribir"
+    ],
+    [
+     "a quick message",
+     "qisqa xabar"
+    ],
+    [
+     "absolutely delicious",
+     "juda mazali"
+    ],
+    [
+     "currently",
+     "hozirda"
+    ],
+    [
+     "book a restaurant",
+     "restoranda joy band qilmoq"
+    ],
+    [
+     "Sounds great",
+     "ajoyib eshitiladi"
+    ]
+   ]
+  },
+  "100": {
+   "title": "Abbreviations",
+   "rows": [
+    [
+     "abbreviation",
+     "qisqartma"
+    ],
+    [
+     "stand for",
+     "... ni anglatmoq"
+    ],
+    [
+     "EU",
+     "Yevropa Ittifoqi"
+    ],
+    [
+     "UN",
+     "Birlashgan Millatlar Tashkiloti"
+    ],
+    [
+     "PM",
+     "Bosh vazir"
+    ],
+    [
+     "MP",
+     "parlament a'zosi"
+    ],
+    [
+     "BBC",
+     "Britaniya radioeshittirish korporatsiyasi"
+    ],
+    [
+     "ID",
+     "shaxsiy guvohnoma"
+    ],
+    [
+     "PC",
+     "shaxsiy kompyuter"
+    ],
+    [
+     "CV",
+     "tarjimai hol, rezyume"
+    ],
+    [
+     "ISP",
+     "internet provayder"
+    ],
+    [
+     "AIDS",
+     "OITS"
+    ],
+    [
+     "PIN",
+     "bank kartasi pin-kodi"
+    ],
+    [
+     "Mr / Mrs",
+     "janob / xonim"
+    ],
+    [
+     "Dr",
+     "doktor, shifokor"
+    ],
+    [
+     "St",
+     "Saint (avliyo) yoki Street (ko'cha)"
+    ],
+    [
+     "etc.",
+     "va hokazo"
+    ],
+    [
+     "e.g.",
+     "masalan"
+    ],
+    [
+     "i.e.",
+     "ya'ni"
+    ],
+    [
+     "phone",
+     "telefon"
+    ],
+    [
+     "maths",
+     "matematika"
+    ],
+    [
+     "exam",
+     "imtihon"
+    ],
+    [
+     "board",
+     "doska"
+    ],
+    [
+     "plane",
+     "samolyot"
+    ],
+    [
+     "case",
+     "chamadon"
+    ],
+    [
+     "photo",
+     "surat"
+    ],
+    [
+     "ad / advert",
+     "reklama, e'lon"
+    ],
+    [
+     "flu",
+     "gripp"
+    ],
+    [
+     "gym",
+     "sport zali"
+    ],
+    [
+     "lab",
+     "laboratoriya"
+    ],
+    [
+     "bike",
+     "velosiped"
+    ],
+    [
+     "sales rep",
+     "savdo vakili"
+    ],
+    [
+     "TV / telly",
+     "televizor"
+    ],
+    [
+     "paper",
+     "gazeta"
+    ],
+    [
+     "fridge",
+     "muzlatgich"
+    ],
+    [
+     "vet",
+     "veterinar"
+    ]
+   ]
+  }
+ }
+}

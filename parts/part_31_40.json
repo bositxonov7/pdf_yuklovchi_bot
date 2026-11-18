@@ -1,0 +1,1398 @@
+{
+ "units": {
+  "31": {
+   "title": "Classroom language",
+   "rows": [
+    [
+     "DVD player",
+     "DVD pleyer"
+    ],
+    [
+     "DVD",
+     "DVD (disk)"
+    ],
+    [
+     "socket",
+     "rozetka"
+    ],
+    [
+     "plug",
+     "vilka (elektr)"
+    ],
+    [
+     "rubber",
+     "o'chirg'ich"
+    ],
+    [
+     "pencil sharpener",
+     "qalamtarosh"
+    ],
+    [
+     "ruler",
+     "chizg'ich"
+    ],
+    [
+     "highlighter pen",
+     "ajratib ko'rsatuvchi marker"
+    ],
+    [
+     "rub out",
+     "o'chirmoq"
+    ],
+    [
+     "sharpen a pencil",
+     "qalamni o'tkirlamoq"
+    ],
+    [
+     "measure",
+     "o'lchamoq"
+    ],
+    [
+     "highlight a word",
+     "so'zni belgilab ko'rsatmoq"
+    ],
+    [
+     "dictionary",
+     "lug'at"
+    ],
+    [
+     "look up a word",
+     "so'zni lug'atdan qidirmoq"
+    ],
+    [
+     "borrow",
+     "qarz olmoq, vaqtincha olmoq"
+    ],
+    [
+     "lend",
+     "qarz bermoq, vaqtincha bermoq"
+    ],
+    [
+     "plug in",
+     "rozetkaga ulamoq"
+    ],
+    [
+     "turn up the volume",
+     "ovozni balandlatmoq"
+    ],
+    [
+     "turn down",
+     "ovozni pasaytirmoq"
+    ],
+    [
+     "correct students' English",
+     "o'quvchilar xatosini tuzatmoq"
+    ],
+    [
+     "work with a partner",
+     "sherik bilan ishlamoq"
+    ],
+    [
+     "swap places",
+     "joy almashmoq"
+    ],
+    [
+     "share a book",
+     "kitobni birga o'qimoq (bo'lishmoq)"
+    ],
+    [
+     "Repeat after me.",
+     "Mendan keyin takrorlang."
+    ],
+    [
+     "What does ... mean?",
+     "... nimani anglatadi?"
+    ],
+    [
+     "How do you pronounce ...?",
+     "... qanday talaffuz qilinadi?"
+    ],
+    [
+     "How do you spell ...?",
+     "... qanday yoziladi (harflab)?"
+    ],
+    [
+     "How do you use the word ...?",
+     "... so'zini qanday ishlatiladi?"
+    ],
+    [
+     "Could you explain the difference?",
+     "Farqini tushuntira olasizmi?"
+    ],
+    [
+     "tiny",
+     "juda kichkina"
+    ],
+    [
+     "mean / meaning",
+     "anglatmoq / ma'no"
+    ],
+    [
+     "pronounce / pronunciation",
+     "talaffuz qilmoq / talaffuz"
+    ],
+    [
+     "spell / spelling",
+     "harflab aytmoq / imlo"
+    ],
+    [
+     "explain / explanation",
+     "tushuntirmoq / tushuntirish"
+    ],
+    [
+     "repeat / repetition",
+     "takrorlamoq / takrorlash"
+    ]
+   ]
+  },
+  "32": {
+   "title": "School education",
+   "rows": [
+    [
+     "state school",
+     "davlat maktabi"
+    ],
+    [
+     "private school",
+     "xususiy maktab"
+    ],
+    [
+     "nursery school",
+     "bolalar bog'chasi (maktabgacha)"
+    ],
+    [
+     "primary school",
+     "boshlang'ich maktab"
+    ],
+    [
+     "secondary school",
+     "o'rta maktab"
+    ],
+    [
+     "pupil",
+     "maktab o'quvchisi"
+    ],
+    [
+     "attend",
+     "qatnamoq, borib turmoq"
+    ],
+    [
+     "take/do an exam",
+     "imtihon topshirmoq"
+    ],
+    [
+     "GCSE exams",
+     "GCSE imtihonlari (16 yoshda)"
+    ],
+    [
+     "'A' level exams",
+     "'A' level imtihonlari (18 yoshda)"
+    ],
+    [
+     "vocational training",
+     "kasbiy ta'lim"
+    ],
+    [
+     "college",
+     "kollej"
+    ],
+    [
+     "university",
+     "universitet"
+    ],
+    [
+     "further education",
+     "qo'shimcha ta'lim"
+    ],
+    [
+     "go on to university",
+     "universitetda o'qishni davom ettirmoq"
+    ],
+    [
+     "leave school",
+     "maktabni tugatmoq"
+    ],
+    [
+     "school timetable",
+     "maktab dars jadvali"
+    ],
+    [
+     "lesson",
+     "dars"
+    ],
+    [
+     "subject",
+     "fan"
+    ],
+    [
+     "maths",
+     "matematika"
+    ],
+    [
+     "lunch break",
+     "tushlik tanaffusi"
+    ],
+    [
+     "term",
+     "chorak, semestr"
+    ],
+    [
+     "break up",
+     "ta'tilga chiqmoq (o'qish tugamoq)"
+    ],
+    [
+     "go back",
+     "qaytmoq"
+    ],
+    [
+     "school year",
+     "o'quv yili"
+    ],
+    [
+     "school rules",
+     "maktab qoidalari"
+    ],
+    [
+     "break the rules",
+     "qoidalarni buzmoq"
+    ],
+    [
+     "punish",
+     "jazolamoq"
+    ],
+    [
+     "stay behind",
+     "qolib ketmoq (darsdan keyin)"
+    ],
+    [
+     "get into trouble",
+     "muammoga tushmoq"
+    ],
+    [
+     "uniform",
+     "maktab formasi"
+    ],
+    [
+     "atmosphere",
+     "muhit, kayfiyat"
+    ],
+    [
+     "relaxed",
+     "erkin, bemalol"
+    ],
+    [
+     "dress",
+     "kiyinmoq"
+    ],
+    [
+     "smart",
+     "ozoda kiyingan"
+    ],
+    [
+     "strict",
+     "qattiqqo'l"
+    ]
+   ]
+  },
+  "33": {
+   "title": "Studying English and taking exams",
+   "rows": [
+    [
+     "wide vocabulary",
+     "boy lug'at boyligi"
+    ],
+    [
+     "accurately",
+     "xatosiz, aniq"
+    ],
+    [
+     "fluent",
+     "ravon"
+    ],
+    [
+     "accent",
+     "aksent, talaffuz uslubi"
+    ],
+    [
+     "consonant",
+     "undosh harf"
+    ],
+    [
+     "vowel",
+     "unli harf"
+    ],
+    [
+     "make yourself understood",
+     "o'zini tushuntira olmoq"
+    ],
+    [
+     "increase your vocabulary",
+     "lug'at boyligini oshirmoq"
+    ],
+    [
+     "basic",
+     "oddiy, boshlang'ich"
+    ],
+    [
+     "be willing to",
+     "tayyor bo'lmoq, xohlamoq"
+    ],
+    [
+     "experiment with language",
+     "tilni sinab ko'rmoq"
+    ],
+    [
+     "get things wrong",
+     "xato qilmoq"
+    ],
+    [
+     "learn from your mistakes",
+     "xatolardan o'rganmoq"
+    ],
+    [
+     "make progress",
+     "rivojlanmoq, yutuq qilmoq"
+    ],
+    [
+     "pick things up",
+     "o'zlashtirib olmoq"
+    ],
+    [
+     "have a good ear for language",
+     "tilga yaxshi qulog'i bor"
+    ],
+    [
+     "take/do an exam",
+     "imtihon topshirmoq"
+    ],
+    [
+     "pass",
+     "o'tmoq (imtihondan)"
+    ],
+    [
+     "fail",
+     "yiqilmoq (imtihondan)"
+    ],
+    [
+     "do well / do badly",
+     "yaxshi / yomon natija ko'rsatmoq"
+    ],
+    [
+     "revise for an exam",
+     "imtihonga takrorlamoq"
+    ],
+    [
+     "retake an exam",
+     "imtihonni qayta topshirmoq"
+    ],
+    [
+     "hard work",
+     "mashaqqatli ish"
+    ],
+    [
+     "do your best",
+     "qo'lidan kelganini qilmoq"
+    ],
+    [
+     "with a bit of luck",
+     "ozgina omad bilan"
+    ],
+    [
+     "candidate",
+     "nomzod (imtihon topshiruvchi)"
+    ],
+    [
+     "grade",
+     "baho"
+    ],
+    [
+     "mark",
+     "ball, baho"
+    ],
+    [
+     "get through the coursebook",
+     "darslikni tugatmoq"
+    ],
+    [
+     "revision",
+     "takrorlash"
+    ],
+    [
+     "exam preparation",
+     "imtihonga tayyorgarlik"
+    ],
+    [
+     "essay",
+     "insho"
+    ],
+    [
+     "work on",
+     "ustida ishlamoq"
+    ],
+    [
+     "alphabet",
+     "alifbo"
+    ]
+   ]
+  },
+  "34": {
+   "title": "University education",
+   "rows": [
+    [
+     "medicine",
+     "tibbiyot"
+    ],
+    [
+     "engineering",
+     "muhandislik"
+    ],
+    [
+     "economics",
+     "iqtisodiyot"
+    ],
+    [
+     "business studies",
+     "biznes (fani)"
+    ],
+    [
+     "law",
+     "huquq"
+    ],
+    [
+     "architecture",
+     "arxitektura"
+    ],
+    [
+     "psychology",
+     "psixologiya"
+    ],
+    [
+     "lawyer",
+     "advokat, huquqshunos"
+    ],
+    [
+     "architect",
+     "arxitektor"
+    ],
+    [
+     "psychologist",
+     "psixolog"
+    ],
+    [
+     "economist",
+     "iqtisodchi"
+    ],
+    [
+     "qualification",
+     "malaka, diplom"
+    ],
+    [
+     "get a place at university",
+     "universitetga qabul qilinmoq"
+    ],
+    [
+     "final school exams",
+     "maktab yakuniy imtihonlari"
+    ],
+    [
+     "good grades",
+     "yaxshi baholar"
+    ],
+    [
+     "do a degree",
+     "daraja olish uchun o'qimoq"
+    ],
+    [
+     "degree",
+     "ilmiy daraja, bakalavr"
+    ],
+    [
+     "get your degree",
+     "diplom olmoq"
+    ],
+    [
+     "certificate",
+     "sertifikat, guvohnoma"
+    ],
+    [
+     "course",
+     "kurs"
+    ],
+    [
+     "last (three years)",
+     "davom etmoq (uch yil)"
+    ],
+    [
+     "lecturer",
+     "universitet o'qituvchisi"
+    ],
+    [
+     "lecture",
+     "ma'ruza"
+    ],
+    [
+     "professor",
+     "professor"
+    ],
+    [
+     "arts subjects",
+     "gumanitar fanlar"
+    ],
+    [
+     "science degree",
+     "tabiiy fanlar bo'yicha daraja"
+    ],
+    [
+     "laboratory (lab)",
+     "laboratoriya"
+    ],
+    [
+     "library",
+     "kutubxona"
+    ],
+    [
+     "success / succeed",
+     "muvaffaqiyat / erishmoq"
+    ],
+    [
+     "successful / unsuccessful",
+     "muvaffaqiyatli / muvaffaqiyatsiz"
+    ],
+    [
+     "undergraduate",
+     "bakalavr talabasi"
+    ],
+    [
+     "graduate",
+     "bitiruvchi"
+    ],
+    [
+     "postgraduate degree",
+     "magistratura va undan keyingi daraja"
+    ],
+    [
+     "Master's (MA, MSc)",
+     "magistr darajasi"
+    ],
+    [
+     "PhD",
+     "falsafa doktori (PhD)"
+    ],
+    [
+     "do research",
+     "tadqiqot olib bormoq"
+    ]
+   ]
+  },
+  "35": {
+   "title": "Jobs",
+   "rows": [
+    [
+     "builder",
+     "quruvchi"
+    ],
+    [
+     "brick",
+     "g'isht"
+    ],
+    [
+     "carpenter",
+     "duradgor"
+    ],
+    [
+     "wood",
+     "yog'och"
+    ],
+    [
+     "plumber",
+     "santexnik"
+    ],
+    [
+     "pipe",
+     "quvur"
+    ],
+    [
+     "electrician",
+     "elektrik"
+    ],
+    [
+     "police officer",
+     "politsiyachi"
+    ],
+    [
+     "police force",
+     "politsiya"
+    ],
+    [
+     "mechanic",
+     "mexanik, avtoslesar"
+    ],
+    [
+     "repair / fix / mend",
+     "ta'mirlamoq"
+    ],
+    [
+     "architect",
+     "arxitektor"
+    ],
+    [
+     "lawyer",
+     "advokat"
+    ],
+    [
+     "engineer",
+     "muhandis"
+    ],
+    [
+     "accountant",
+     "buxgalter"
+    ],
+    [
+     "university lecturer",
+     "universitet o'qituvchisi"
+    ],
+    [
+     "treat",
+     "davolamoq"
+    ],
+    [
+     "GP (general practitioner)",
+     "oilaviy shifokor"
+    ],
+    [
+     "dentist",
+     "tish shifokori"
+    ],
+    [
+     "vet",
+     "veterinar"
+    ],
+    [
+     "surgery",
+     "shifokor qabulxonasi"
+    ],
+    [
+     "nurse",
+     "hamshira"
+    ],
+    [
+     "surgeon",
+     "jarroh"
+    ],
+    [
+     "operate on",
+     "operatsiya qilmoq"
+    ],
+    [
+     "join the army",
+     "armiyaga kirmoq"
+    ],
+    [
+     "soldier",
+     "askar"
+    ],
+    [
+     "gun",
+     "qurol, miltiq"
+    ],
+    [
+     "sailor",
+     "dengizchi"
+    ],
+    [
+     "navy",
+     "harbiy dengiz floti"
+    ],
+    [
+     "pilot",
+     "uchuvchi"
+    ],
+    [
+     "air force",
+     "harbiy havo kuchlari"
+    ],
+    [
+     "fireman / firefighter",
+     "o't o'chiruvchi"
+    ],
+    [
+     "fire brigade",
+     "o't o'chirish xizmati"
+    ]
+   ]
+  },
+  "36": {
+   "title": "Talking about your work",
+   "rows": [
+    [
+     "What's your job?",
+     "Kasbingiz nima?"
+    ],
+    [
+     "I work in sales / marketing",
+     "Savdo / marketing sohasida ishlayman"
+    ],
+    [
+     "What do you do for a living?",
+     "Nima ish bilan kun kechirasiz?"
+    ],
+    [
+     "I work for (a company)",
+     "(kompaniyada) ishlayman"
+    ],
+    [
+     "business consultant",
+     "biznes maslahatchisi"
+    ],
+    [
+     "advise",
+     "maslahat bermoq"
+    ],
+    [
+     "advice",
+     "maslahat"
+    ],
+    [
+     "set up a business",
+     "biznes boshlamoq"
+    ],
+    [
+     "deal with",
+     "shug'ullanmoq, hal qilmoq"
+    ],
+    [
+     "handle",
+     "boshqarmoq, hal qilmoq"
+    ],
+    [
+     "be responsible for",
+     "mas'ul bo'lmoq"
+    ],
+    [
+     "be in charge of",
+     "rahbarlik qilmoq"
+    ],
+    [
+     "product",
+     "mahsulot"
+    ],
+    [
+     "What does that involve?",
+     "Bu nimani o'z ichiga oladi?"
+    ],
+    [
+     "involve",
+     "o'z ichiga olmoq"
+    ],
+    [
+     "run (a business)",
+     "boshqarmoq (biznesni)"
+    ],
+    [
+     "day-to-day",
+     "kundalik"
+    ],
+    [
+     "admin",
+     "ma'muriy ish"
+    ],
+    [
+     "handle complaints",
+     "shikoyatlarni ko'rib chiqmoq"
+    ],
+    [
+     "complaint",
+     "shikoyat"
+    ],
+    [
+     "be paid",
+     "maosh olmoq"
+    ],
+    [
+     "salary",
+     "oylik maosh"
+    ],
+    [
+     "wages",
+     "ish haqi (soatbay/haftalik)"
+    ],
+    [
+     "income",
+     "daromad"
+    ],
+    [
+     "earn / make money",
+     "pul topmoq"
+    ],
+    [
+     "income tax",
+     "daromad solig'i"
+    ],
+    [
+     "fixed hours",
+     "qat'iy ish soatlari"
+    ],
+    [
+     "nine-to-five job",
+     "doimiy ish (9 dan 5 gacha)"
+    ],
+    [
+     "work overtime",
+     "qo'shimcha ishlamoq"
+    ],
+    [
+     "time off",
+     "dam olish vaqti"
+    ],
+    [
+     "working conditions",
+     "mehnat sharoitlari"
+    ],
+    [
+     "paid holiday",
+     "haq to'lanadigan ta'til"
+    ],
+    [
+     "minimum wage",
+     "eng kam ish haqi"
+    ]
+   ]
+  },
+  "37": {
+   "title": "Making a career",
+   "rows": [
+    [
+     "apply for a job",
+     "ishga ariza bermoq"
+    ],
+    [
+     "CV",
+     "rezyume"
+    ],
+    [
+     "interview",
+     "suhbat (ishga olishda)"
+    ],
+    [
+     "employ",
+     "ishga olmoq"
+    ],
+    [
+     "training",
+     "o'qitish, malaka oshirish"
+    ],
+    [
+     "training course",
+     "o'quv kursi"
+    ],
+    [
+     "go on a course",
+     "kursga bormoq"
+    ],
+    [
+     "promote",
+     "lavozimini ko'tarmoq"
+    ],
+    [
+     "promotion",
+     "lavozim ko'tarilishi"
+    ],
+    [
+     "pay rise",
+     "maoshning oshishi"
+    ],
+    [
+     "experience",
+     "tajriba"
+    ],
+    [
+     "work abroad",
+     "chet elda ishlamoq"
+    ],
+    [
+     "quit your job",
+     "ishdan ketmoq"
+    ],
+    [
+     "resign",
+     "iste'foga chiqmoq"
+    ],
+    [
+     "get fed up with",
+     "zerikib, to'yib ketmoq"
+    ],
+    [
+     "sack",
+     "ishdan haydamoq"
+    ],
+    [
+     "give someone the sack",
+     "ishdan bo'shatmoq"
+    ],
+    [
+     "unemployed",
+     "ishsiz"
+    ],
+    [
+     "out of work",
+     "ishsiz"
+    ],
+    [
+     "part-time job",
+     "yarim kunlik ish"
+    ],
+    [
+     "full-time job",
+     "to'liq kunlik ish"
+    ],
+    [
+     "manager",
+     "menejer"
+    ],
+    [
+     "own (a business)",
+     "o'ziga tegishli"
+    ],
+    [
+     "owner",
+     "egasi"
+    ],
+    [
+     "successful",
+     "muvaffaqiyatli"
+    ],
+    [
+     "succeed",
+     "muvaffaqiyatga erishmoq"
+    ],
+    [
+     "luck",
+     "omad"
+    ],
+    [
+     "retire",
+     "nafaqaga chiqmoq"
+    ],
+    [
+     "retirement",
+     "nafaqa, nafaqaga chiqish"
+    ],
+    [
+     "letter of application",
+     "ariza xati"
+    ]
+   ]
+  },
+  "38": {
+   "title": "Working in an office",
+   "rows": [
+    [
+     "calendar",
+     "taqvim"
+    ],
+    [
+     "noticeboard",
+     "e'lonlar taxtasi"
+    ],
+    [
+     "calculator",
+     "kalkulyator"
+    ],
+    [
+     "photocopier",
+     "nusxa ko'chirish apparati"
+    ],
+    [
+     "diary",
+     "kundalik, ish daftari"
+    ],
+    [
+     "files",
+     "papkalar, hujjatlar"
+    ],
+    [
+     "keyboard",
+     "klaviatura"
+    ],
+    [
+     "(rubbish) bin",
+     "axlat qutisi"
+    ],
+    [
+     "filing cabinet",
+     "hujjatlar shkafi"
+    ],
+    [
+     "produce",
+     "ishlab chiqarmoq"
+    ],
+    [
+     "factory",
+     "zavod"
+    ],
+    [
+     "paperwork",
+     "qog'oz ishlari"
+    ],
+    [
+     "type letters",
+     "xat terib yozmoq"
+    ],
+    [
+     "invoice",
+     "hisob-faktura"
+    ],
+    [
+     "send out",
+     "jo'natmoq"
+    ],
+    [
+     "arrange a visit",
+     "tashrif uyushtirmoq"
+    ],
+    [
+     "make an appointment",
+     "uchrashuv belgilamoq"
+    ],
+    [
+     "show visitors round",
+     "mehmonlarni aylantirib ko'rsatmoq"
+    ],
+    [
+     "attend a meeting",
+     "yig'ilishda qatnashmoq"
+    ],
+    [
+     "organise",
+     "tashkil qilmoq"
+    ],
+    [
+     "task",
+     "vazifa"
+    ],
+    [
+     "involve",
+     "o'z ichiga olmoq"
+    ],
+    [
+     "break down",
+     "buzilmoq"
+    ],
+    [
+     "run out of",
+     "tugab qolmoq"
+    ],
+    [
+     "colleague",
+     "hamkasb"
+    ],
+    [
+     "absent",
+     "yo'q, kelmagan"
+    ],
+    [
+     "off (work)",
+     "ishda yo'q, dam olmoqda"
+    ],
+    [
+     "loads of",
+     "ko'p, juda ko'p (so'zlashuv)"
+    ],
+    [
+     "arrange / arrangement",
+     "tartibga solmoq / kelishuv"
+    ],
+    [
+     "attend / attendance",
+     "qatnashmoq / qatnashish"
+    ]
+   ]
+  },
+  "39": {
+   "title": "Running a company",
+   "rows": [
+    [
+     "achieve",
+     "erishmoq"
+    ],
+    [
+     "achievement",
+     "yutuq"
+    ],
+    [
+     "a great deal",
+     "ko'p, katta miqdorda"
+    ],
+    [
+     "bakery",
+     "nonvoyxona"
+    ],
+    [
+     "family business",
+     "oilaviy biznes"
+    ],
+    [
+     "employee",
+     "xodim"
+    ],
+    [
+     "set up a company",
+     "kompaniya tuzmoq"
+    ],
+    [
+     "aim",
+     "maqsad"
+    ],
+    [
+     "variety",
+     "xilma-xillik"
+    ],
+    [
+     "quality",
+     "sifat"
+    ],
+    [
+     "demand",
+     "talab"
+    ],
+    [
+     "organic",
+     "organik, tabiiy"
+    ],
+    [
+     "expert",
+     "mutaxassis"
+    ],
+    [
+     "run (a company)",
+     "boshqarmoq"
+    ],
+    [
+     "daily",
+     "har kuni, kundalik"
+    ],
+    [
+     "deliver",
+     "yetkazib bermoq"
+    ],
+    [
+     "firm",
+     "firma, kompaniya"
+    ],
+    [
+     "expand",
+     "kengaymoq"
+    ],
+    [
+     "currently",
+     "hozirda"
+    ],
+    [
+     "accountant",
+     "buxgalter"
+    ],
+    [
+     "formerly",
+     "ilgari, avval"
+    ],
+    [
+     "take over",
+     "egallab olmoq, sotib olib boshqarmoq"
+    ],
+    [
+     "take up a position",
+     "lavozimni egallamoq"
+    ],
+    [
+     "headquarters",
+     "bosh ofis"
+    ],
+    [
+     "branch",
+     "filial"
+    ],
+    [
+     "contact",
+     "aloqa, tanish"
+    ],
+    [
+     "client",
+     "mijoz (xizmat oluvchi)"
+    ],
+    [
+     "customer",
+     "xaridor"
+    ],
+    [
+     "attract attention",
+     "e'tiborni jalb qilmoq"
+    ],
+    [
+     "advertise",
+     "reklama qilmoq"
+    ],
+    [
+     "ambition",
+     "orzu, intilish"
+    ],
+    [
+     "image",
+     "obraz, imidj"
+    ],
+    [
+     "former",
+     "sobiq"
+    ],
+    [
+     "ex-wife",
+     "sobiq xotin"
+    ],
+    [
+     "take up (a hobby)",
+     "shug'ullana boshlamoq"
+    ]
+   ]
+  },
+  "40": {
+   "title": "Business and finance",
+   "rows": [
+    [
+     "trend",
+     "tendensiya, yo'nalish"
+    ],
+    [
+     "sales",
+     "savdo, sotuvlar"
+    ],
+    [
+     "price",
+     "narx"
+    ],
+    [
+     "rise / go up / increase",
+     "ko'tarilmoq, oshmoq"
+    ],
+    [
+     "fall / go down / decrease",
+     "tushmoq, kamaymoq"
+    ],
+    [
+     "slightly",
+     "ozgina"
+    ],
+    [
+     "gradually",
+     "asta-sekin"
+    ],
+    [
+     "sharply",
+     "keskin"
+    ],
+    [
+     "stay the same",
+     "o'zgarmay qolmoq"
+    ],
+    [
+     "rise by 10 pence",
+     "10 pensga oshmoq"
+    ],
+    [
+     "fall from ... to ...",
+     "... dan ... gacha tushmoq"
+    ],
+    [
+     "a rise in prices",
+     "narxlarning oshishi"
+    ],
+    [
+     "a fall in sales",
+     "savdoning pasayishi"
+    ],
+    [
+     "profit",
+     "foyda"
+    ],
+    [
+     "loss",
+     "zarar"
+    ],
+    [
+     "make a profit",
+     "foyda ko'rmoq"
+    ],
+    [
+     "make a loss",
+     "zarar ko'rmoq"
+    ],
+    [
+     "economy",
+     "iqtisodiyot"
+    ],
+    [
+     "positive signs",
+     "ijobiy belgilar"
+    ],
+    [
+     "loan",
+     "kredit, qarz"
+    ],
+    [
+     "inflation",
+     "inflyatsiya"
+    ],
+    [
+     "growing fears",
+     "ortib borayotgan xavotir"
+    ],
+    [
+     "interest",
+     "foiz (qarz uchun)"
+    ],
+    [
+     "interest rate",
+     "foiz stavkasi"
+    ],
+    [
+     "figures",
+     "raqamlar, ko'rsatkichlar"
+    ],
+    [
+     "trade",
+     "savdo (davlatlararo)"
+    ],
+    [
+     "for the fifth year in a row",
+     "ketma-ket beshinchi yil"
+    ],
+    [
+     "value",
+     "qiymat"
+    ],
+    [
+     "currency",
+     "valyuta"
+    ],
+    [
+     "quarter",
+     "chorak (uch oy)"
+    ],
+    [
+     "raise hopes",
+     "umidlarni oshirmoq"
+    ],
+    [
+     "recession",
+     "iqtisodiy tanazzul"
+    ],
+    [
+     "charge",
+     "haq undirmoq"
+    ],
+    [
+     "pay back",
+     "qaytarib bermoq"
+    ]
+   ]
+  }
+ }
+}

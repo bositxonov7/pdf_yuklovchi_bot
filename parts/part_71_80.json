@@ -1,0 +1,1234 @@
+{
+ "units": {
+  "71": {
+   "title": "Suffixes: forming nouns",
+   "rows": [
+    [
+     "-ion / -ment",
+     "fe'ldan ot yasovchi qo'shimchalar"
+    ],
+    [
+     "-ness / -ity",
+     "sifatdan ot yasovchi qo'shimchalar"
+    ],
+    [
+     "-er / -or / -ist",
+     "kasb egasini bildiruvchi qo'shimchalar"
+    ],
+    [
+     "invent - invention",
+     "ixtiro qilmoq - ixtiro"
+    ],
+    [
+     "discuss - discussion",
+     "muhokama qilmoq - muhokama"
+    ],
+    [
+     "translate - translation",
+     "tarjima qilmoq - tarjima"
+    ],
+    [
+     "relax - relaxation",
+     "dam olmoq - dam olish"
+    ],
+    [
+     "improve - improvement",
+     "yaxshilanmoq - yaxshilanish"
+    ],
+    [
+     "govern - government",
+     "boshqarmoq - hukumat"
+    ],
+    [
+     "manage - management",
+     "boshqarmoq - boshqaruv, rahbariyat"
+    ],
+    [
+     "develop - development",
+     "rivojlanmoq - rivojlanish"
+    ],
+    [
+     "weak - weakness",
+     "zaif - zaiflik"
+    ],
+    [
+     "happy - happiness",
+     "baxtli - baxt"
+    ],
+    [
+     "ill - illness",
+     "kasal - kasallik"
+    ],
+    [
+     "fit - fitness",
+     "sog'lom, baquvvat - jismoniy tayyorgarlik"
+    ],
+    [
+     "stupid - stupidity",
+     "ahmoq - ahmoqlik"
+    ],
+    [
+     "popular - popularity",
+     "mashhur - mashhurlik"
+    ],
+    [
+     "similar - similarity",
+     "o'xshash - o'xshashlik"
+    ],
+    [
+     "able - ability",
+     "qodir - qobiliyat"
+    ],
+    [
+     "inability",
+     "qobiliyatsizlik, ojizlik"
+    ],
+    [
+     "dancer",
+     "raqqosa/raqqos"
+    ],
+    [
+     "singer",
+     "qo'shiqchi"
+    ],
+    [
+     "footballer",
+     "futbolchi"
+    ],
+    [
+     "director",
+     "direktor, rejissyor"
+    ],
+    [
+     "translator",
+     "tarjimon"
+    ],
+    [
+     "actor",
+     "aktyor"
+    ],
+    [
+     "artist",
+     "rassom, san'atkor"
+    ],
+    [
+     "economist",
+     "iqtisodchi"
+    ],
+    [
+     "scientist",
+     "olim"
+    ],
+    [
+     "professional",
+     "professional, kasbiy"
+    ]
+   ]
+  },
+  "72": {
+   "title": "Suffixes: forming adjectives",
+   "rows": [
+    [
+     "-al",
+     "\"...ga oid\" ma'nosidagi sifat qo'shimchasi"
+    ],
+    [
+     "-able",
+     "sifat yasovchi qo'shimcha (...sa bo'ladigan)"
+    ],
+    [
+     "-ful",
+     "\"...ga to'la\" ma'nosidagi qo'shimcha"
+    ],
+    [
+     "-less",
+     "\"...siz\" ma'nosidagi qo'shimcha"
+    ],
+    [
+     "musical",
+     "musiqiy"
+    ],
+    [
+     "political",
+     "siyosiy"
+    ],
+    [
+     "electrical",
+     "elektr bilan bog'liq"
+    ],
+    [
+     "personal",
+     "shaxsiy"
+    ],
+    [
+     "national",
+     "milliy, umummilliy"
+    ],
+    [
+     "cultural",
+     "madaniy"
+    ],
+    [
+     "traditional",
+     "an'anaviy"
+    ],
+    [
+     "normal",
+     "oddiy, normal"
+    ],
+    [
+     "enjoyable",
+     "zavqli"
+    ],
+    [
+     "comfortable",
+     "qulay"
+    ],
+    [
+     "uncomfortable",
+     "noqulay"
+    ],
+    [
+     "suitable",
+     "mos, munosib"
+    ],
+    [
+     "unsuitable",
+     "nomunosib"
+    ],
+    [
+     "reliable",
+     "ishonchli"
+    ],
+    [
+     "unreliable",
+     "ishonchsiz"
+    ],
+    [
+     "fashionable",
+     "modaga mos"
+    ],
+    [
+     "unfashionable",
+     "modadan chiqqan"
+    ],
+    [
+     "reasonable",
+     "o'rinli, maqbul"
+    ],
+    [
+     "unreasonable",
+     "nomaqbul, asossiz"
+    ],
+    [
+     "sociable",
+     "ochiq, odamovi"
+    ],
+    [
+     "unsociable",
+     "odamovi bo'lmagan, tortinchoq"
+    ],
+    [
+     "unforgettable",
+     "unutilmas"
+    ],
+    [
+     "unbelievable",
+     "ishonib bo'lmaydigan"
+    ],
+    [
+     "colourful",
+     "rang-barang"
+    ],
+    [
+     "helpful",
+     "foydali, yordam beruvchi"
+    ],
+    [
+     "peaceful",
+     "tinch, osoyishta"
+    ],
+    [
+     "useful",
+     "foydali"
+    ],
+    [
+     "useless",
+     "foydasiz"
+    ],
+    [
+     "painful",
+     "og'riqli"
+    ],
+    [
+     "painless",
+     "og'riqsiz"
+    ],
+    [
+     "careful",
+     "ehtiyotkor"
+    ],
+    [
+     "careless",
+     "beparvo"
+    ]
+   ]
+  },
+  "73": {
+   "title": "Compound nouns",
+   "rows": [
+    [
+     "ice hockey",
+     "xokkey (muz ustida)"
+    ],
+    [
+     "public transport",
+     "jamoat transporti"
+    ],
+    [
+     "campsite",
+     "lager joyi, kemping"
+    ],
+    [
+     "babysitter",
+     "enaga (vaqtincha qaraydigan)"
+    ],
+    [
+     "income tax",
+     "daromad solig'i"
+    ],
+    [
+     "income",
+     "daromad"
+    ],
+    [
+     "mother tongue",
+     "ona tili"
+    ],
+    [
+     "travel agent",
+     "sayohat agenti"
+    ],
+    [
+     "film-maker",
+     "kinorejissyor"
+    ],
+    [
+     "full stop",
+     "nuqta (tinish belgisi)"
+    ],
+    [
+     "haircut",
+     "soch oldirish"
+    ],
+    [
+     "DJ (disc jockey)",
+     "diskjokey"
+    ],
+    [
+     "crossroads",
+     "chorraha"
+    ],
+    [
+     "hairdresser",
+     "sartarosh, sochtarosh"
+    ],
+    [
+     "sunglasses",
+     "quyosh ko'zoynagi"
+    ],
+    [
+     "hairdryer",
+     "fen"
+    ],
+    [
+     "wheelchair",
+     "nogironlar aravachasi"
+    ],
+    [
+     "cashpoint",
+     "bankomat"
+    ],
+    [
+     "traffic lights",
+     "svetofor"
+    ],
+    [
+     "toothpaste",
+     "tish pastasi"
+    ],
+    [
+     "toothbrush",
+     "tish cho'tkasi"
+    ],
+    [
+     "chest of drawers",
+     "javon (tortmali)"
+    ],
+    [
+     "earrings",
+     "sirg'a"
+    ],
+    [
+     "T-shirt",
+     "futbolka"
+    ],
+    [
+     "credit card",
+     "kredit karta"
+    ],
+    [
+     "ID card (identity card)",
+     "shaxsni tasdiqlovchi karta"
+    ],
+    [
+     "birthday card",
+     "tug'ilgan kun otkritkasi"
+    ],
+    [
+     "bus driver",
+     "avtobus haydovchisi"
+    ],
+    [
+     "bus stop",
+     "avtobus bekati"
+    ],
+    [
+     "bus station",
+     "avtovokzal"
+    ],
+    [
+     "airport",
+     "aeroport"
+    ],
+    [
+     "airline",
+     "aviakompaniya"
+    ],
+    [
+     "aircraft",
+     "samolyot"
+    ]
+   ]
+  },
+  "74": {
+   "title": "Word partners",
+   "rows": [
+    [
+     "word partners (collocations)",
+     "so'z hamrohlari (birga keladigan so'zlar)"
+    ],
+    [
+     "spend time",
+     "vaqt o'tkazmoq"
+    ],
+    [
+     "miss the bus",
+     "avtobusga kech qolmoq"
+    ],
+    [
+     "have children",
+     "farzandli bo'lmoq"
+    ],
+    [
+     "make a mistake",
+     "xato qilmoq"
+    ],
+    [
+     "serious injury",
+     "og'ir jarohat"
+    ],
+    [
+     "serious illness",
+     "og'ir kasallik"
+    ],
+    [
+     "quite likely",
+     "ehtimoli katta"
+    ],
+    [
+     "depend on",
+     "...ga bog'liq bo'lmoq"
+    ],
+    [
+     "tell a joke",
+     "latifa aytmoq"
+    ],
+    [
+     "lose weight",
+     "vazn yo'qotmoq"
+    ],
+    [
+     "put on weight",
+     "semirmoq"
+    ],
+    [
+     "go on a diet",
+     "parhez qilmoq"
+    ],
+    [
+     "predict the future",
+     "kelajakni bashorat qilmoq"
+    ],
+    [
+     "score a goal",
+     "gol urmoq"
+    ],
+    [
+     "alarm goes off",
+     "signalizatsiya yoqilmoq"
+    ],
+    [
+     "fall in love",
+     "sevib qolmoq"
+    ],
+    [
+     "expect a baby",
+     "farzand kutmoq"
+    ],
+    [
+     "a large number of",
+     "ko'p sonli"
+    ],
+    [
+     "a large amount of",
+     "katta miqdordagi"
+    ],
+    [
+     "a wide choice of",
+     "keng tanlov"
+    ],
+    [
+     "a limited choice",
+     "cheklangan tanlov"
+    ],
+    [
+     "a wide vocabulary",
+     "boy lug'at zaxirasi"
+    ],
+    [
+     "a loud noise",
+     "baland shovqin"
+    ],
+    [
+     "of great importance",
+     "katta ahamiyatga ega"
+    ],
+    [
+     "great fun",
+     "juda qiziqarli"
+    ],
+    [
+     "heavy traffic",
+     "qalin tirbandlik"
+    ],
+    [
+     "light traffic",
+     "kam tirbandlik"
+    ],
+    [
+     "terribly sorry",
+     "juda afsusdaman"
+    ],
+    [
+     "well aware of",
+     "yaxshi xabardor"
+    ],
+    [
+     "vitally important",
+     "nihoyatda muhim"
+    ],
+    [
+     "fast asleep",
+     "qattiq uxlab qolgan"
+    ],
+    [
+     "wide awake",
+     "ko'zi ochiq, uyg'oq"
+    ]
+   ]
+  },
+  "75": {
+   "title": "Fixed phrases",
+   "rows": [
+    [
+     "out of the blue",
+     "to'satdan, kutilmaganda"
+    ],
+    [
+     "ring a bell",
+     "tanish tuyulmoq"
+    ],
+    [
+     "make up your mind",
+     "qaror qilmoq"
+    ],
+    [
+     "get rid of",
+     "qutulmoq, tashlab yubormoq"
+    ],
+    [
+     "(just) about to",
+     "endi...moqchi bo'lmoq"
+    ],
+    [
+     "burst into tears",
+     "to'satdan yig'lab yubormoq"
+    ],
+    [
+     "apart from",
+     "...dan tashqari"
+    ],
+    [
+     "in four days' time",
+     "to'rt kundan keyin"
+    ],
+    [
+     "the week before last",
+     "o'tgan haftadan oldingi hafta"
+    ],
+    [
+     "so far",
+     "hozirgacha"
+    ],
+    [
+     "at once",
+     "darhol"
+    ],
+    [
+     "right away / straight away",
+     "darhol, shu zahoti"
+    ],
+    [
+     "night after night",
+     "har kecha, kecha-ma-kecha"
+    ],
+    [
+     "day after day",
+     "kun sayin, har kuni"
+    ],
+    [
+     "now and again",
+     "ba'zan, goho"
+    ],
+    [
+     "now and then",
+     "ba'zan, vaqti-vaqti bilan"
+    ],
+    [
+     "one or two",
+     "bir-ikki"
+    ],
+    [
+     "a bit of peace and quiet",
+     "ozgina tinchlik va sukunat"
+    ],
+    [
+     "up and down",
+     "u yoqdan bu yoqqa"
+    ],
+    [
+     "once or twice",
+     "bir-ikki marta"
+    ],
+    [
+     "sooner or later",
+     "ertami-kechmi"
+    ],
+    [
+     "on and off",
+     "vaqti-vaqti bilan"
+    ],
+    [
+     "if I were you",
+     "sizning o'rningizda bo'lsam"
+    ],
+    [
+     "in general",
+     "umuman olganda"
+    ],
+    [
+     "on the whole",
+     "asosan, umuman"
+    ],
+    [
+     "for instance",
+     "masalan"
+    ],
+    [
+     "by the way",
+     "aytgancha"
+    ],
+    [
+     "to be honest",
+     "rostini aytsam"
+    ],
+    [
+     "feel at home",
+     "o'zini uyidagidek his qilmoq"
+    ],
+    [
+     "cost a fortune",
+     "juda qimmat turmoq"
+    ],
+    [
+     "keep an eye on",
+     "ko'z-quloq bo'lmoq"
+    ],
+    [
+     "on the tip of my tongue",
+     "tilimning uchida turibdi"
+    ],
+    [
+     "a night on the town",
+     "shaharda kechqurun maza qilish"
+    ],
+    [
+     "could do with",
+     "...ga ehtiyoj sezmoq"
+    ]
+   ]
+  },
+  "76": {
+   "title": "Fixed phrases in conversation",
+   "rows": [
+    [
+     "I've no idea",
+     "bilmayman, hech qanday tasavvurim yo'q"
+    ],
+    [
+     "That depends.",
+     "Bunga bog'liq."
+    ],
+    [
+     "Why not?",
+     "Nega endi bo'lmasin? (xo'p)"
+    ],
+    [
+     "Not really.",
+     "Unchalik emas."
+    ],
+    [
+     "What for?",
+     "Nima uchun?"
+    ],
+    [
+     "No way.",
+     "Aslo! Iloji yo'q."
+    ],
+    [
+     "no chance",
+     "iloji yo'q"
+    ],
+    [
+     "I suppose so.",
+     "Shekilli, shunday."
+    ],
+    [
+     "I couldn't believe my eyes!",
+     "Ko'zlarimga ishonmadim!"
+    ],
+    [
+     "You must be joking.",
+     "Hazillashyapsiz-ku."
+    ],
+    [
+     "You're kidding.",
+     "Hazillashyapsan-ku."
+    ],
+    [
+     "I don't believe it!",
+     "Ishonmayman!"
+    ],
+    [
+     "have a word with",
+     "bir-ikki og'iz gaplashmoq"
+    ],
+    [
+     "you know",
+     "bilasizmi (gapni to'ldiruvchi)"
+    ],
+    [
+     "pay attention",
+     "e'tibor bermoq"
+    ],
+    [
+     "in that case",
+     "unday bo'lsa"
+    ],
+    [
+     "feel bad about",
+     "afsuslanmoq, xijolat bo'lmoq"
+    ],
+    [
+     "can't help it",
+     "o'zini tiya olmaslik"
+    ],
+    [
+     "wait and see",
+     "ko'raylik-chi, kutib ko'ramiz"
+    ],
+    [
+     "What if ...?",
+     "Agar ...sa-chi?"
+    ],
+    [
+     "change your mind",
+     "fikrini o'zgartirmoq"
+    ],
+    [
+     "(and) that sort of thing",
+     "va shunga o'xshash narsalar"
+    ],
+    [
+     "sort of / kind of",
+     "biroz, shunga o'xshash"
+    ],
+    [
+     "final warning",
+     "oxirgi ogohlantirish"
+    ]
+   ]
+  },
+  "77": {
+   "title": "Verb or adjective + preposition",
+   "rows": [
+    [
+     "agree with",
+     "...bilan rozi bo'lmoq"
+    ],
+    [
+     "worry about",
+     "...haqida tashvishlanmoq"
+    ],
+    [
+     "satisfied with",
+     "...dan mamnun"
+    ],
+    [
+     "spend money on",
+     "pulni ...ga sarflamoq"
+    ],
+    [
+     "think of",
+     "...ni o'ylamoq, mo'ljallamoq"
+    ],
+    [
+     "belong to",
+     "...ga tegishli bo'lmoq"
+    ],
+    [
+     "translate into",
+     "...ga tarjima qilmoq"
+    ],
+    [
+     "complain to sb about sth",
+     "...ga ...dan shikoyat qilmoq"
+    ],
+    [
+     "concentrate on",
+     "...ga e'tiborni qaratmoq"
+    ],
+    [
+     "rely on",
+     "...ga tayanmoq, ishonmoq"
+    ],
+    [
+     "depend on",
+     "...ga bog'liq bo'lmoq"
+    ],
+    [
+     "shout to sb",
+     "...ga baqirib aytmoq (eshittirish uchun)"
+    ],
+    [
+     "shout at sb",
+     "...ga baqirmoq (jahl bilan)"
+    ],
+    [
+     "throw sth to sb",
+     "...ga irg'itmoq (tutib olishi uchun)"
+    ],
+    [
+     "throw sth at sb",
+     "...ga otmoq (urish uchun)"
+    ],
+    [
+     "good at",
+     "...da yaxshi, qobiliyatli"
+    ],
+    [
+     "bad at",
+     "...da yomon"
+    ],
+    [
+     "afraid of",
+     "...dan qo'rqmoq"
+    ],
+    [
+     "fond of",
+     "...ni yaxshi ko'rmoq"
+    ],
+    [
+     "similar to",
+     "...ga o'xshash"
+    ],
+    [
+     "different from",
+     "...dan farq qiladigan"
+    ],
+    [
+     "interested in",
+     "...ga qiziqadigan"
+    ],
+    [
+     "aware of",
+     "...dan xabardor"
+    ],
+    [
+     "tired of",
+     "...dan zerikkan, charchagan"
+    ],
+    [
+     "mad about",
+     "...ga ishqiboz, ...ni juda yaxshi ko'rgan"
+    ],
+    [
+     "short of",
+     "...ga muhtoj, ...si kam"
+    ],
+    [
+     "something wrong with",
+     "...da nimadir noto'g'ri"
+    ]
+   ]
+  },
+  "78": {
+   "title": "Prepositional phrases",
+   "rows": [
+    [
+     "by mistake",
+     "adashib, xato bilan"
+    ],
+    [
+     "by hand",
+     "qo'lda, qo'lbola"
+    ],
+    [
+     "by chance",
+     "tasodifan"
+    ],
+    [
+     "by accident",
+     "tasodifan, beixtiyor"
+    ],
+    [
+     "on purpose",
+     "ataylab"
+    ],
+    [
+     "on the phone",
+     "telefonda"
+    ],
+    [
+     "on strike",
+     "ish tashlagan"
+    ],
+    [
+     "on display",
+     "ko'rgazmada"
+    ],
+    [
+     "on fire",
+     "yonayotgan"
+    ],
+    [
+     "on board",
+     "bortda"
+    ],
+    [
+     "in a hurry",
+     "shoshib"
+    ],
+    [
+     "in detail",
+     "batafsil"
+    ],
+    [
+     "in future",
+     "kelajakda, bundan keyin"
+    ],
+    [
+     "in tears",
+     "yig'lab turgan"
+    ],
+    [
+     "on time",
+     "o'z vaqtida"
+    ],
+    [
+     "in time",
+     "vaqtida ulgurib"
+    ],
+    [
+     "in the end",
+     "oxir-oqibat"
+    ],
+    [
+     "at the end of",
+     "...ning oxirida"
+    ],
+    [
+     "on business",
+     "ish yuzasidan"
+    ],
+    [
+     "out-of-date",
+     "eskirgan"
+    ],
+    [
+     "up-to-date",
+     "zamonaviy, yangi"
+    ],
+    [
+     "in a moment / in a minute",
+     "bir zumda"
+    ],
+    [
+     "at the moment",
+     "hozir, shu paytda"
+    ],
+    [
+     "right now",
+     "hozir, hoziroq"
+    ]
+   ]
+  },
+  "79": {
+   "title": "Phrasal verbs 1: form and meaning",
+   "rows": [
+    [
+     "phrasal verb",
+     "frazali fe'l"
+    ],
+    [
+     "fall over",
+     "yiqilib tushmoq"
+    ],
+    [
+     "find out",
+     "bilib olmoq"
+    ],
+    [
+     "give away",
+     "bepul bermoq, hadya qilmoq"
+    ],
+    [
+     "look up",
+     "(lug'atdan) qidirib topmoq"
+    ],
+    [
+     "sort out",
+     "hal qilmoq, tartibga solmoq"
+    ],
+    [
+     "get on with",
+     "...bilan til topishmoq"
+    ],
+    [
+     "wake up",
+     "uyg'onmoq"
+    ],
+    [
+     "save up",
+     "(pul) yig'moq"
+    ],
+    [
+     "hurry up",
+     "shoshilmoq"
+    ],
+    [
+     "lie down",
+     "yotmoq, cho'zilmoq"
+    ],
+    [
+     "take back",
+     "qaytarib olib bormoq"
+    ],
+    [
+     "put back",
+     "joyiga qo'ymoq"
+    ],
+    [
+     "go back",
+     "qaytib bormoq"
+    ],
+    [
+     "give up",
+     "tashlamoq, voz kechmoq"
+    ],
+    [
+     "carry on",
+     "davom etmoq"
+    ],
+    [
+     "put up",
+     "(narxni) oshirmoq"
+    ],
+    [
+     "take on",
+     "ishga olmoq"
+    ],
+    [
+     "go away (leave)",
+     "ketmoq"
+    ],
+    [
+     "go away (holiday)",
+     "dam olishga ketmoq"
+    ],
+    [
+     "pick up (lift)",
+     "(yerdan) ko'tarib olmoq"
+    ],
+    [
+     "pick sb up",
+     "(mashinada) olib ketmoq"
+    ],
+    [
+     "put on (switch on)",
+     "yoqmoq"
+    ],
+    [
+     "put on (clothes)",
+     "kiymoq"
+    ],
+    [
+     "switch on",
+     "yoqmoq (asbobni)"
+    ],
+    [
+     "go off (explode)",
+     "portlamoq"
+    ],
+    [
+     "go off (alarm)",
+     "jiringlamoq, ishga tushmoq"
+    ],
+    [
+     "go off (food)",
+     "buzilmoq (ovqat)"
+    ],
+    [
+     "go off (stop working)",
+     "o'chib qolmoq"
+    ],
+    [
+     "go off (leave)",
+     "ketib qolmoq"
+    ]
+   ]
+  },
+  "80": {
+   "title": "Phrasal verbs 2: grammar and style",
+   "rows": [
+    [
+     "get in",
+     "yetib kelmoq (poyezd, samolyot)"
+    ],
+    [
+     "hold on",
+     "bir lahza kutmoq"
+    ],
+    [
+     "break down",
+     "buzilmoq (mashina)"
+    ],
+    [
+     "call for",
+     "(olib ketish uchun) kirib o'tmoq"
+    ],
+    [
+     "set off",
+     "yo'lga chiqmoq"
+    ],
+    [
+     "put on",
+     "kiymoq"
+    ],
+    [
+     "turn on",
+     "yoqmoq"
+    ],
+    [
+     "turn off",
+     "o'chirmoq"
+    ],
+    [
+     "take off",
+     "yechmoq"
+    ],
+    [
+     "look after",
+     "qaramoq, g'amxo'rlik qilmoq"
+    ],
+    [
+     "break into",
+     "zo'rlik bilan kirmoq, o'g'irlikka tushmoq"
+    ],
+    [
+     "leave out",
+     "tushirib qoldirmoq"
+    ],
+    [
+     "make up",
+     "to'qib chiqarmoq"
+    ],
+    [
+     "put off",
+     "keyinga qoldirmoq"
+    ],
+    [
+     "turn down",
+     "rad etmoq"
+    ],
+    [
+     "get over",
+     "tuzalmoq, o'zini o'nglab olmoq"
+    ],
+    [
+     "hang around",
+     "(bekor) aylanib yurmoq"
+    ],
+    [
+     "hang about (UK)",
+     "(bekor) aylanib yurmoq"
+    ],
+    [
+     "hand out",
+     "tarqatmoq"
+    ],
+    [
+     "omit",
+     "tushirib qoldirmoq (rasmiy)"
+    ],
+    [
+     "invent",
+     "o'ylab topmoq (rasmiy)"
+    ],
+    [
+     "postpone",
+     "keyinga surmoq (rasmiy)"
+    ],
+    [
+     "reject",
+     "rad etmoq (rasmiy)"
+    ],
+    [
+     "separable phrasal verb",
+     "ajraladigan frazali fe'l"
+    ]
+   ]
+  }
+ }
+}

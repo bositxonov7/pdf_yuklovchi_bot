@@ -1,0 +1,1354 @@
+{
+ "units": {
+  "61": {
+   "title": "Numbers",
+   "rows": [
+    [
+     "cardinal numbers",
+     "asosiy sanoq sonlar"
+    ],
+    [
+     "hundred",
+     "yuz"
+    ],
+    [
+     "thousand",
+     "ming"
+    ],
+    [
+     "million",
+     "million"
+    ],
+    [
+     "billion",
+     "milliard"
+    ],
+    [
+     "two hundred and fifty",
+     "ikki yuz ellik"
+    ],
+    [
+     "thousands of people",
+     "minglab odamlar"
+    ],
+    [
+     "millions of insects",
+     "millionlab hasharotlar"
+    ],
+    [
+     "date",
+     "sana"
+    ],
+    [
+     "the fourth of June",
+     "to'rtinchi iyun"
+    ],
+    [
+     "June the fourth",
+     "iyunning to'rtinchisi"
+    ],
+    [
+     "the twenty-first of May",
+     "yigirma birinchi may"
+    ],
+    [
+     "nineteen ninety-seven",
+     "1997 (yil)"
+    ],
+    [
+     "two thousand and sixteen",
+     "2016 (yil)"
+    ],
+    [
+     "fraction",
+     "kasr son"
+    ],
+    [
+     "decimal",
+     "o'nli kasr"
+    ],
+    [
+     "a quarter",
+     "chorak (1/4)"
+    ],
+    [
+     "a half",
+     "yarim (1/2)"
+    ],
+    [
+     "three quarters",
+     "to'rtdan uch (3/4)"
+    ],
+    [
+     "one and a half",
+     "bir butun yarim (1½)"
+    ],
+    [
+     "one point five",
+     "bir butun o'ndan besh (1.5)"
+    ],
+    [
+     "percentage",
+     "foiz"
+    ],
+    [
+     "per cent",
+     "foiz (%)"
+    ],
+    [
+     "the majority",
+     "ko'pchilik"
+    ],
+    [
+     "the vast majority",
+     "katta ko'pchilik"
+    ],
+    [
+     "the minority",
+     "ozchilik"
+    ],
+    [
+     "a small minority",
+     "kichik ozchilik"
+    ],
+    [
+     "calculation",
+     "hisob-kitob"
+    ],
+    [
+     "work out",
+     "hisoblab topmoq"
+    ],
+    [
+     "addition",
+     "qo'shish"
+    ],
+    [
+     "subtraction",
+     "ayirish"
+    ],
+    [
+     "multiplication",
+     "ko'paytirish"
+    ],
+    [
+     "division",
+     "bo'lish"
+    ],
+    [
+     "plus / and",
+     "plyus, qo'shuv"
+    ],
+    [
+     "minus",
+     "minus, ayiruv"
+    ],
+    [
+     "multiplied by / times",
+     "ko'paytirilsa"
+    ],
+    [
+     "divided by",
+     "bo'linsa"
+    ],
+    [
+     "equals / is",
+     "teng"
+    ],
+    [
+     "add up",
+     "qo'shib jamlamoq"
+    ],
+    [
+     "get stuck",
+     "tiqilib qolmoq"
+    ],
+    [
+     "calculator",
+     "kalkulyator"
+    ],
+    [
+     "nought",
+     "nol (matematikada)"
+    ],
+    [
+     "zero / oh",
+     "nol (telefon raqamida)"
+    ],
+    [
+     "double four",
+     "ikkita to'rt (44)"
+    ],
+    [
+     "degrees below zero",
+     "nol darajadan past"
+    ]
+   ]
+  },
+  "62": {
+   "title": "Distance, dimensions and size",
+   "rows": [
+    [
+     "distance",
+     "masofa"
+    ],
+    [
+     "mile",
+     "mil (≈1,6 km)"
+    ],
+    [
+     "yard",
+     "yard (≈1 m)"
+    ],
+    [
+     "foot (feet)",
+     "fut (≈30 sm)"
+    ],
+    [
+     "inch",
+     "dyuym (≈2,5 sm)"
+    ],
+    [
+     "kilometre",
+     "kilometr"
+    ],
+    [
+     "metre",
+     "metr"
+    ],
+    [
+     "centimetre",
+     "santimetr"
+    ],
+    [
+     "millimetre",
+     "millimetr"
+    ],
+    [
+     "How far is it?",
+     "Qanchalik uzoq?"
+    ],
+    [
+     "a mile away",
+     "bir mil narida"
+    ],
+    [
+     "the nearest one",
+     "eng yaqini"
+    ],
+    [
+     "just round the corner",
+     "burchakning narigi tomonida (juda yaqin)"
+    ],
+    [
+     "up / down the road",
+     "yo'l bo'ylab (oldinda)"
+    ],
+    [
+     "ten minutes' walk",
+     "o'n daqiqalik piyoda yo'l"
+    ],
+    [
+     "at least",
+     "kamida"
+    ],
+    [
+     "a couple of miles",
+     "ikki-uch mil"
+    ],
+    [
+     "a long way",
+     "uzoq yo'l"
+    ],
+    [
+     "length",
+     "uzunlik"
+    ],
+    [
+     "width",
+     "kenglik"
+    ],
+    [
+     "height",
+     "balandlik"
+    ],
+    [
+     "depth",
+     "chuqurlik"
+    ],
+    [
+     "long",
+     "uzun"
+    ],
+    [
+     "wide",
+     "keng"
+    ],
+    [
+     "high",
+     "baland"
+    ],
+    [
+     "deep",
+     "chuqur"
+    ],
+    [
+     "shallow",
+     "sayoz"
+    ],
+    [
+     "tall",
+     "novcha, baland (odam, bino)"
+    ],
+    [
+     "short",
+     "past bo'yli, qisqa"
+    ],
+    [
+     "thick",
+     "qalin"
+    ],
+    [
+     "thin",
+     "yupqa, ingichka"
+    ],
+    [
+     "narrow",
+     "tor"
+    ],
+    [
+     "huge",
+     "ulkan"
+    ],
+    [
+     "enormous",
+     "juda katta"
+    ],
+    [
+     "tiny",
+     "juda kichkina"
+    ],
+    [
+     "giant",
+     "ulkan, gigant"
+    ],
+    [
+     "How deep is it?",
+     "U qanchalik chuqur?"
+    ]
+   ]
+  },
+  "63": {
+   "title": "Objects, materials, shapes and colour",
+   "rows": [
+    [
+     "object",
+     "narsa, buyum"
+    ],
+    [
+     "material",
+     "material"
+    ],
+    [
+     "description",
+     "tavsif"
+    ],
+    [
+     "bell",
+     "qo'ng'iroq"
+    ],
+    [
+     "chair",
+     "stul"
+    ],
+    [
+     "hat",
+     "shlyapa"
+    ],
+    [
+     "bone",
+     "suyak"
+    ],
+    [
+     "flag",
+     "bayroq"
+    ],
+    [
+     "shirt",
+     "ko'ylak"
+    ],
+    [
+     "top",
+     "ustki kiyim (bluzka)"
+    ],
+    [
+     "sofa",
+     "divan"
+    ],
+    [
+     "ladder",
+     "narvon"
+    ],
+    [
+     "tissue",
+     "qog'oz ro'molcha"
+    ],
+    [
+     "bucket",
+     "chelak"
+    ],
+    [
+     "metal",
+     "metall"
+    ],
+    [
+     "wood",
+     "yog'och"
+    ],
+    [
+     "wooden",
+     "yog'ochdan yasalgan"
+    ],
+    [
+     "fur",
+     "mo'yna"
+    ],
+    [
+     "rubber",
+     "rezina"
+    ],
+    [
+     "cloth",
+     "mato"
+    ],
+    [
+     "cotton",
+     "paxta (mato)"
+    ],
+    [
+     "silk",
+     "ipak"
+    ],
+    [
+     "leather",
+     "charm"
+    ],
+    [
+     "paper",
+     "qog'oz"
+    ],
+    [
+     "plastic",
+     "plastmassa"
+    ],
+    [
+     "antique",
+     "antiqa buyum"
+    ],
+    [
+     "stylish",
+     "zamonaviy va chiroyli"
+    ],
+    [
+     "made of / made from",
+     "...dan yasalgan"
+    ],
+    [
+     "stripes",
+     "yo'l-yo'l chiziqlar"
+    ],
+    [
+     "square",
+     "kvadrat"
+    ],
+    [
+     "circle",
+     "doira"
+    ],
+    [
+     "semi-circle",
+     "yarim doira"
+    ],
+    [
+     "star",
+     "yulduz"
+    ],
+    [
+     "heart",
+     "yurak (shakl)"
+    ],
+    [
+     "round",
+     "yumaloq"
+    ],
+    [
+     "pointed",
+     "uchli"
+    ],
+    [
+     "grey",
+     "kulrang"
+    ],
+    [
+     "pink",
+     "pushti"
+    ],
+    [
+     "navy blue",
+     "to'q ko'k"
+    ],
+    [
+     "purple",
+     "binafsha"
+    ],
+    [
+     "green",
+     "yashil"
+    ],
+    [
+     "-ish (roundish, greenish)",
+     "-simon (yumaloqroq, yashilroq)"
+    ]
+   ]
+  },
+  "64": {
+   "title": "Containers and quantities",
+   "rows": [
+    [
+     "container",
+     "idish"
+    ],
+    [
+     "contents",
+     "ichidagi narsa"
+    ],
+    [
+     "a bag of shopping",
+     "bir xalta xarid"
+    ],
+    [
+     "a bottle of juice",
+     "bir shisha sharbat"
+    ],
+    [
+     "a jar of jam",
+     "bir banka murabbo"
+    ],
+    [
+     "a bowl of sugar",
+     "bir kosa shakar"
+    ],
+    [
+     "a jug of water",
+     "bir ko'za suv"
+    ],
+    [
+     "a box of chocolates",
+     "bir quti shokolad"
+    ],
+    [
+     "a packet of biscuits",
+     "bir pachka pechenye"
+    ],
+    [
+     "a packet of crisps",
+     "bir paket chips"
+    ],
+    [
+     "a can of cola",
+     "bir banka kola"
+    ],
+    [
+     "a carton of orange juice",
+     "bir quti apelsin sharbati"
+    ],
+    [
+     "a tube of toothpaste",
+     "bir tyub tish pastasi"
+    ],
+    [
+     "a vase of flowers",
+     "vazadagi gullar"
+    ],
+    [
+     "a tin of fruit",
+     "bir konserva meva"
+    ],
+    [
+     "a bar of chocolate",
+     "bir plitka shokolad"
+    ],
+    [
+     "a drop of milk",
+     "bir tomchi sut"
+    ],
+    [
+     "a slice of beef",
+     "bir bo'lak mol go'shti"
+    ],
+    [
+     "a piece of",
+     "bir parcha"
+    ],
+    [
+     "a bunch of flowers",
+     "bir dasta gul"
+    ],
+    [
+     "a bunch of keys",
+     "bir bog' kalit"
+    ],
+    [
+     "a sheet of paper",
+     "bir varaq qog'oz"
+    ],
+    [
+     "a pair of trousers",
+     "bir dona shim"
+    ],
+    [
+     "a couple of",
+     "ikki-uch ta"
+    ],
+    [
+     "several",
+     "bir necha"
+    ],
+    [
+     "half a dozen",
+     "yarim o'nlik (6 ta)"
+    ],
+    [
+     "a dozen",
+     "o'nlik (12 ta)"
+    ],
+    [
+     "a spoonful of sugar",
+     "bir qoshiq shakar"
+    ],
+    [
+     "plenty of",
+     "juda ko'p"
+    ],
+    [
+     "in large quantities",
+     "katta miqdorda"
+    ],
+    [
+     "quantity",
+     "miqdor"
+    ]
+   ]
+  },
+  "65": {
+   "title": "Apologies, excuses and thanks",
+   "rows": [
+    [
+     "apologise",
+     "uzr so'ramoq"
+    ],
+    [
+     "apology",
+     "uzr"
+    ],
+    [
+     "excuse",
+     "bahona, sabab"
+    ],
+    [
+     "I'm terribly sorry",
+     "Juda afsusdaman"
+    ],
+    [
+     "I'm really sorry",
+     "Chin dildan uzr"
+    ],
+    [
+     "Never mind.",
+     "Zarari yo'q."
+    ],
+    [
+     "That's OK.",
+     "Hechqisi yo'q."
+    ],
+    [
+     "That's all right.",
+     "Hammasi joyida."
+    ],
+    [
+     "Don't worry.",
+     "Xavotir olmang."
+    ],
+    [
+     "I beg your pardon",
+     "Kechirasiz (rasmiy)"
+    ],
+    [
+     "Sorry to disturb you",
+     "Bezovta qilganim uchun uzr"
+    ],
+    [
+     "Sorry to keep you waiting",
+     "Kutdirganim uchun uzr"
+    ],
+    [
+     "I won't be long",
+     "Ko'p kutdirmayman"
+    ],
+    [
+     "Excuse me, I won't be a minute",
+     "Kechirasiz, bir daqiqaga"
+    ],
+    [
+     "I must apologise for ...",
+     "... uchun uzr so'rashim kerak"
+    ],
+    [
+     "Sorry I'm late",
+     "Kechikkanim uchun uzr"
+    ],
+    [
+     "delay",
+     "kechikish"
+    ],
+    [
+     "hold-up",
+     "to'xtab qolish, kechikish"
+    ],
+    [
+     "I was held up in traffic",
+     "Tirbandlikda qolib ketdim"
+    ],
+    [
+     "cancelled",
+     "bekor qilingan"
+    ],
+    [
+     "oversleep",
+     "uxlab qolmoq"
+    ],
+    [
+     "Thanks (very much)",
+     "(Katta) rahmat"
+    ],
+    [
+     "Not at all.",
+     "Arzimaydi."
+    ],
+    [
+     "No problem.",
+     "Muammo yo'q."
+    ],
+    [
+     "Cheers.",
+     "Rahmat (norasmiy)"
+    ],
+    [
+     "That's very kind of you",
+     "Bu juda mehribonligingiz"
+    ]
+   ]
+  },
+  "66": {
+   "title": "Requests, permission and suggestions",
+   "rows": [
+    [
+     "request",
+     "iltimos, so'rov"
+    ],
+    [
+     "Could you pass the salt?",
+     "Tuzni uzatib yuborasizmi?"
+    ],
+    [
+     "Could you possibly help me?",
+     "Menga yordam bera olmasmidingiz?"
+    ],
+    [
+     "I wonder if you could help me",
+     "Menga yordam bera olarmikinsiz"
+    ],
+    [
+     "I was wondering if you could ...",
+     "...ni so'rasam bo'ladimi, deb edim"
+    ],
+    [
+     "lend me some money",
+     "menga qarz pul bermoq"
+    ],
+    [
+     "Sure.",
+     "Albatta."
+    ],
+    [
+     "No problem.",
+     "Muammo yo'q."
+    ],
+    [
+     "Yes, of course.",
+     "Ha, albatta."
+    ],
+    [
+     "I'm afraid I can't",
+     "Afsuski, qila olmayman"
+    ],
+    [
+     "permission",
+     "ruxsat"
+    ],
+    [
+     "Could I possibly have a look?",
+     "Bir qarab chiqsam maylimi?"
+    ],
+    [
+     "May I open the window?",
+     "Derazani ochsam maylimi?"
+    ],
+    [
+     "Do you mind if I watch TV?",
+     "Televizor ko'rsam qarshi emasmisiz?"
+    ],
+    [
+     "Help yourself.",
+     "Marhamat, oling."
+    ],
+    [
+     "Go ahead.",
+     "Marhamat, boshlayvering."
+    ],
+    [
+     "suggestion",
+     "taklif"
+    ],
+    [
+     "Let's go to the café",
+     "Keling, kafega boraylik"
+    ],
+    [
+     "We could try that restaurant",
+     "O'sha restoranni sinab ko'rsak bo'ladi"
+    ],
+    [
+     "How about going to a club?",
+     "Klubga borsak-chi?"
+    ],
+    [
+     "Why don't we see a film?",
+     "Nega kino ko'rmaymiz?"
+    ],
+    [
+     "Do you fancy ...?",
+     "...ni xohlaysizmi? (norasmiy)"
+    ],
+    [
+     "I don't mind. You choose.",
+     "Menga farqi yo'q. O'zing tanla."
+    ],
+    [
+     "(That's a) great idea",
+     "Zo'r fikr"
+    ],
+    [
+     "That sounds good",
+     "Yaxshi eshitiladi"
+    ],
+    [
+     "Yes, if you like",
+     "Xo'p, xohlasangiz"
+    ],
+    [
+     "I don't fancy that",
+     "Bu menga yoqmaydi"
+    ],
+    [
+     "I'd rather do something else",
+     "Boshqa narsa qilgim keladi"
+    ]
+   ]
+  },
+  "67": {
+   "title": "Opinions, agreeing and disagreeing",
+   "rows": [
+    [
+     "opinion",
+     "fikr"
+    ],
+    [
+     "What do you think of ...?",
+     "... haqida qanday fikrdasiz?"
+    ],
+    [
+     "What do you think about ...?",
+     "... haqida nima deb o'ylaysiz?"
+    ],
+    [
+     "How do you feel about ...?",
+     "...ga munosabatingiz qanday?"
+    ],
+    [
+     "Personally, I think ...",
+     "Shaxsan men ... deb o'ylayman"
+    ],
+    [
+     "Personally, I feel that ...",
+     "Shaxsan menimcha ..."
+    ],
+    [
+     "In my opinion",
+     "Mening fikrimcha"
+    ],
+    [
+     "My view is that ...",
+     "Mening nuqtai nazarimcha ..."
+    ],
+    [
+     "My feeling is that ...",
+     "Menimcha ..."
+    ],
+    [
+     "According to the paper",
+     "Gazetaning yozishicha"
+    ],
+    [
+     "The paper says that ...",
+     "Gazeta ... deb yozadi"
+    ],
+    [
+     "agree with",
+     "...ga rozi bo'lmoq"
+    ],
+    [
+     "disagree",
+     "rozi bo'lmaslik"
+    ],
+    [
+     "I totally agree",
+     "To'liq roziman"
+    ],
+    [
+     "I partly agree",
+     "Qisman roziman"
+    ],
+    [
+     "to a certain extent",
+     "ma'lum darajada"
+    ],
+    [
+     "That's true, but ...",
+     "To'g'ri, lekin ..."
+    ],
+    [
+     "I see what you mean, but ...",
+     "Nima demoqchiligingizni tushundim, lekin ..."
+    ],
+    [
+     "a good point",
+     "yaxshi fikr"
+    ],
+    [
+     "I take your point, but ...",
+     "Gapingizga qo'shilaman, lekin ..."
+    ],
+    [
+     "feel strongly about",
+     "...ga qattiq qiziqmoq, jiddiy qarashmoq"
+    ],
+    [
+     "absolutely right",
+     "mutlaqo to'g'ri"
+    ],
+    [
+     "absolutely wrong",
+     "mutlaqo noto'g'ri"
+    ],
+    [
+     "I don't agree at all",
+     "Umuman rozi emasman"
+    ],
+    [
+     "I disagree completely",
+     "Butunlay rozi emasman"
+    ]
+   ]
+  },
+  "68": {
+   "title": "Likes, dislikes, attitudes and preferences",
+   "rows": [
+    [
+     "I love ...",
+     "...ni juda yaxshi ko'raman"
+    ],
+    [
+     "I'm really into ...",
+     "...ga qattiq qiziqaman"
+    ],
+    [
+     "I like a lot of ...",
+     "...ning ko'pini yoqtiraman"
+    ],
+    [
+     "I quite like ...",
+     "...ni bir oz yoqtiraman"
+    ],
+    [
+     "I don't mind ...",
+     "...ga qarshi emasman"
+    ],
+    [
+     "I'm not very keen on ...",
+     "...ga unchalik havasim yo'q"
+    ],
+    [
+     "I can't stand ...",
+     "...ga chidolmayman"
+    ],
+    [
+     "I hate ...",
+     "...ni yomon ko'raman"
+    ],
+    [
+     "So do I. / Me too.",
+     "Men ham."
+    ],
+    [
+     "So am I.",
+     "Men ham (shunday)."
+    ],
+    [
+     "Neither am I. / Me neither.",
+     "Men ham emasman."
+    ],
+    [
+     "Neither can I.",
+     "Men ham qila olmayman."
+    ],
+    [
+     "Really?",
+     "Rostdanmi?"
+    ],
+    [
+     "attitude",
+     "munosabat, qarash"
+    ],
+    [
+     "used to + verb",
+     "ilgari ...ar edi"
+    ],
+    [
+     "interest (n)",
+     "qiziqish"
+    ],
+    [
+     "interested in",
+     "...ga qiziquvchi"
+    ],
+    [
+     "doesn't interest me",
+     "meni qiziqtirmaydi"
+    ],
+    [
+     "not ... at all",
+     "umuman ... emas"
+    ],
+    [
+     "have nothing in common",
+     "umumiy jihati yo'q"
+    ],
+    [
+     "have a lot in common",
+     "ko'p umumiy jihati bor"
+    ],
+    [
+     "get used to",
+     "ko'nikmoq"
+    ],
+    [
+     "prefer",
+     "afzal ko'rmoq"
+    ],
+    [
+     "prefer A to B",
+     "A ni B dan afzal ko'rmoq"
+    ],
+    [
+     "I'd prefer to ...",
+     "...ni afzal ko'rardim"
+    ],
+    [
+     "I'd rather ...",
+     "...ni ma'qul ko'rardim"
+    ],
+    [
+     "in general",
+     "umuman"
+    ]
+   ]
+  },
+  "69": {
+   "title": "Greetings, farewells and special expressions",
+   "rows": [
+    [
+     "greeting",
+     "salomlashish"
+    ],
+    [
+     "farewell",
+     "xayrlashish"
+    ],
+    [
+     "introduce",
+     "tanishtirmoq"
+    ],
+    [
+     "stranger",
+     "notanish odam"
+    ],
+    [
+     "shake hands",
+     "qo'l siqishmoq"
+    ],
+    [
+     "kiss on the cheek",
+     "yonoqdan o'pmoq"
+    ],
+    [
+     "cheek",
+     "yonoq"
+    ],
+    [
+     "Hello.",
+     "Salom."
+    ],
+    [
+     "Hi.",
+     "Salom (norasmiy)."
+    ],
+    [
+     "Nice to meet you.",
+     "Tanishganimdan xursandman."
+    ],
+    [
+     "How are you?",
+     "Ahvolingiz qanday?"
+    ],
+    [
+     "Fine, thanks.",
+     "Yaxshi, rahmat."
+    ],
+    [
+     "How about you?",
+     "O'zingizda-chi?"
+    ],
+    [
+     "How's it going?",
+     "Ishlar qalay?"
+    ],
+    [
+     "How are things?",
+     "Ahvollar qalay?"
+    ],
+    [
+     "Not (so) bad.",
+     "Fusa emas."
+    ],
+    [
+     "Goodbye.",
+     "Xayr."
+    ],
+    [
+     "Bye.",
+     "Xayr (norasmiy)."
+    ],
+    [
+     "Cheers.",
+     "Xayr / Rahmat (norasmiy)."
+    ],
+    [
+     "Take care.",
+     "O'zingizni asrang."
+    ],
+    [
+     "See you soon.",
+     "Tez orada ko'rishamiz."
+    ],
+    [
+     "See you later.",
+     "Keyinroq ko'rishamiz."
+    ],
+    [
+     "See you tomorrow.",
+     "Ertaga ko'rishamiz."
+    ],
+    [
+     "Have a nice weekend.",
+     "Dam olish kuningiz yaxshi o'tsin."
+    ],
+    [
+     "Same to you.",
+     "Sizga ham shuni tilayman."
+    ],
+    [
+     "Excuse me, could I get past?",
+     "Kechirasiz, o'tib ketsam bo'ladimi?"
+    ],
+    [
+     "Good luck.",
+     "Omad tilayman."
+    ],
+    [
+     "Bless you.",
+     "Salomat bo'ling (aksirganda)."
+    ],
+    [
+     "Congratulations.",
+     "Tabriklayman."
+    ],
+    [
+     "Thank goodness.",
+     "Xudoga shukur."
+    ],
+    [
+     "Thank God.",
+     "Shukur (norasmiy)."
+    ],
+    [
+     "Goodness!",
+     "Voy! (hayrat)"
+    ]
+   ]
+  },
+  "70": {
+   "title": "Prefixes: changing meaning",
+   "rows": [
+    [
+     "prefix",
+     "old qo'shimcha"
+    ],
+    [
+     "un- : unhappy",
+     "baxtsiz"
+    ],
+    [
+     "un- : unusual",
+     "g'ayrioddiy"
+    ],
+    [
+     "un- : unexpected",
+     "kutilmagan"
+    ],
+    [
+     "un- : unbelievable",
+     "ishonib bo'lmas"
+    ],
+    [
+     "un- : uncomfortable",
+     "noqulay"
+    ],
+    [
+     "un- : unnecessary",
+     "keraksiz"
+    ],
+    [
+     "un- : unable",
+     "qodir emas"
+    ],
+    [
+     "un- : unfit",
+     "sog'lom emas, tayyor emas"
+    ],
+    [
+     "un- : unlucky",
+     "omadsiz"
+    ],
+    [
+     "un- : unlikely",
+     "ehtimoldan yiroq"
+    ],
+    [
+     "un- : unfair",
+     "adolatsiz"
+    ],
+    [
+     "dis- : dishonest",
+     "insofsiz"
+    ],
+    [
+     "dis- : disagree",
+     "rozi bo'lmaslik"
+    ],
+    [
+     "dis- : disappear",
+     "g'oyib bo'lmoq"
+    ],
+    [
+     "im- : impossible",
+     "imkonsiz"
+    ],
+    [
+     "in- : incorrect",
+     "noto'g'ri"
+    ],
+    [
+     "ir- : irregular",
+     "tartibsiz"
+    ],
+    [
+     "il- : illegal",
+     "noqonuniy"
+    ],
+    [
+     "unlock",
+     "qulfini ochmoq"
+    ],
+    [
+     "get undressed",
+     "yechinmoq"
+    ],
+    [
+     "unpack",
+     "(yukni) ochib joylamoq"
+    ],
+    [
+     "over- : overcharge",
+     "ortiqcha haq olmoq"
+    ],
+    [
+     "mis- : misunderstand",
+     "noto'g'ri tushunmoq"
+    ],
+    [
+     "mis- : mishear",
+     "noto'g'ri eshitmoq"
+    ],
+    [
+     "re- : rewrite",
+     "qayta yozmoq"
+    ],
+    [
+     "honest",
+     "halol"
+    ],
+    [
+     "correct",
+     "to'g'ri"
+    ],
+    [
+     "regular",
+     "muntazam"
+    ],
+    [
+     "legal",
+     "qonuniy"
+    ],
+    [
+     "possible",
+     "mumkin"
+    ],
+    [
+     "happy",
+     "baxtli"
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,1234 @@
+{
+ "units": {
+  "11": {
+   "title": "Describing character",
+   "rows": [
+    [
+     "character",
+     "xarakter, fe'l-atvor"
+    ],
+    [
+     "positive / negative",
+     "ijobiy / salbiy"
+    ],
+    [
+     "reliable / unreliable",
+     "ishonchli / ishonchsiz"
+    ],
+    [
+     "confident",
+     "o'ziga ishongan"
+    ],
+    [
+     "shy",
+     "uyatchan, tortinchoq"
+    ],
+    [
+     "hard-working / lazy",
+     "mehnatsevar / dangasa"
+    ],
+    [
+     "sense of humour",
+     "hazil tuyg'usi"
+    ],
+    [
+     "serious",
+     "jiddiy"
+    ],
+    [
+     "patient / impatient",
+     "sabrli / sabrsiz"
+    ],
+    [
+     "generous / mean",
+     "saxovatli / xasis"
+    ],
+    [
+     "honest / dishonest",
+     "halol / insofsiz (yolg'onchi)"
+    ],
+    [
+     "clever / intelligent",
+     "aqlli, zehnli"
+    ],
+    [
+     "stupid",
+     "ahmoq, tentak"
+    ],
+    [
+     "calm",
+     "xotirjam"
+    ],
+    [
+     "nervous / anxious",
+     "asabiy / xavotirli"
+    ],
+    [
+     "kind / unkind",
+     "mehribon / mehrsiz"
+    ],
+    [
+     "nice",
+     "yoqimli, yaxshi"
+    ],
+    [
+     "friendly / unfriendly",
+     "xushmuomala / sovuq muomalali"
+    ],
+    [
+     "pleasant / unpleasant",
+     "yoqimli / yoqimsiz"
+    ],
+    [
+     "sensible",
+     "aqlli, oqilona"
+    ],
+    [
+     "silly",
+     "ahmoqona, bema'ni"
+    ],
+    [
+     "creative",
+     "ijodkor"
+    ],
+    [
+     "talented",
+     "iqtidorli, qobiliyatli"
+    ],
+    [
+     "talent",
+     "iste'dod, qobiliyat"
+    ],
+    [
+     "trust",
+     "ishonmoq"
+    ],
+    [
+     "What is he like?",
+     "U qanday odam?"
+    ],
+    [
+     "I wish I had her talent.",
+     "Kash uning iste'dodi menda bo'lsa."
+    ]
+   ]
+  },
+  "12": {
+   "title": "Feelings",
+   "rows": [
+    [
+     "emotion",
+     "his-tuyg'u"
+    ],
+    [
+     "feeling(s)",
+     "tuyg'u, his"
+    ],
+    [
+     "proud / pride",
+     "g'ururli / g'urur"
+    ],
+    [
+     "disappointed / disappointment",
+     "hafsalasi pir bo'lgan / ko'ngilsizlik"
+    ],
+    [
+     "confused / confusion",
+     "adashgan, sarosimadagi / sarosima"
+    ],
+    [
+     "hopeful",
+     "umidvor"
+    ],
+    [
+     "curious / curiosity",
+     "qiziquvchan / qiziquvchanlik"
+    ],
+    [
+     "anxious / anxiety",
+     "xavotirli / xavotir"
+    ],
+    [
+     "scared (frightened)",
+     "qo'rqib ketgan"
+    ],
+    [
+     "jealous / jealousy",
+     "rashkchi / rashk"
+    ],
+    [
+     "upset",
+     "xafa, ranjigan"
+    ],
+    [
+     "cheerful",
+     "quvnoq"
+    ],
+    [
+     "miserable",
+     "baxtsiz, g'amgin"
+    ],
+    [
+     "depressed",
+     "tushkunlikka tushgan"
+    ],
+    [
+     "mood",
+     "kayfiyat"
+    ],
+    [
+     "effect on",
+     "... ga ta'sir"
+    ],
+    [
+     "energetic",
+     "baquvvat, harakatchan"
+    ],
+    [
+     "anger",
+     "g'azab"
+    ],
+    [
+     "care for",
+     "g'amxo'rlik qilmoq"
+    ],
+    [
+     "stress",
+     "stress, asabiy zo'riqish"
+    ],
+    [
+     "creative",
+     "ijodkor"
+    ],
+    [
+     "suffer from",
+     "... dan aziyat chekmoq"
+    ],
+    [
+     "emotional",
+     "hissiyotli"
+    ],
+    [
+     "associated with",
+     "... bilan bog'liq"
+    ],
+    [
+     "relaxing",
+     "tinchlantiruvchi"
+    ]
+   ]
+  },
+  "13": {
+   "title": "Family and friends",
+   "rows": [
+    [
+     "relatives (relations)",
+     "qarindoshlar"
+    ],
+    [
+     "widow",
+     "beva (ayol)"
+    ],
+    [
+     "remarry",
+     "qayta turmush qurmoq"
+    ],
+    [
+     "stepfather",
+     "o'gay ota"
+    ],
+    [
+     "elder brother",
+     "katta aka (uka emas)"
+    ],
+    [
+     "younger sister",
+     "kenja singil"
+    ],
+    [
+     "twins",
+     "egizaklar"
+    ],
+    [
+     "close family",
+     "inoq oila"
+    ],
+    [
+     "only child",
+     "yagona farzand"
+    ],
+    [
+     "uncle",
+     "amaki, tog'a"
+    ],
+    [
+     "cousin",
+     "amakivachcha, xolavachcha"
+    ],
+    [
+     "nephew",
+     "jiyan (o'g'il)"
+    ],
+    [
+     "niece",
+     "jiyan (qiz)"
+    ],
+    [
+     "sister-in-law",
+     "kelin, qaynsingil, yanga"
+    ],
+    [
+     "get on well with",
+     "... bilan yaxshi chiqishmoq"
+    ],
+    [
+     "get married",
+     "turmush qurmoq, uylanmoq"
+    ],
+    [
+     "get to know",
+     "tanishmoq, bilib olmoq"
+    ],
+    [
+     "friend",
+     "do'st"
+    ],
+    [
+     "old friend",
+     "eski do'st"
+    ],
+    [
+     "best friend",
+     "eng yaqin do'st"
+    ],
+    [
+     "mate",
+     "o'rtoq, do'st (so'zlashuv)"
+    ],
+    [
+     "friendship",
+     "do'stlik"
+    ],
+    [
+     "girlfriend",
+     "qiz do'st"
+    ],
+    [
+     "ex-husband",
+     "sobiq er"
+    ],
+    [
+     "ex-girlfriend",
+     "sobiq qiz do'st"
+    ],
+    [
+     "current",
+     "hozirgi"
+    ],
+    [
+     "ever since",
+     "o'shandan beri"
+    ],
+    [
+     "go out with",
+     "... bilan uchrashib yurmoq"
+    ],
+    [
+     "couple",
+     "juftlik"
+    ]
+   ]
+  },
+  "14": {
+   "title": "Growing up",
+   "rows": [
+    [
+     "birth",
+     "tug'ilish"
+    ],
+    [
+     "baby",
+     "chaqaloq"
+    ],
+    [
+     "toddler",
+     "endi yurayotgan bola"
+    ],
+    [
+     "child / childhood",
+     "bola / bolalik"
+    ],
+    [
+     "teenager",
+     "o'smir"
+    ],
+    [
+     "in your teens",
+     "o'smirlik yoshida"
+    ],
+    [
+     "adult",
+     "kattalar, voyaga yetgan"
+    ],
+    [
+     "middle-aged",
+     "o'rta yoshli"
+    ],
+    [
+     "retirement",
+     "nafaqaga chiqish"
+    ],
+    [
+     "retired",
+     "nafaqadagi"
+    ],
+    [
+     "old age",
+     "keksalik"
+    ],
+    [
+     "elderly",
+     "keksa"
+    ],
+    [
+     "in my early twenties",
+     "yigirma yoshlarning boshida"
+    ],
+    [
+     "in their mid-fifties",
+     "ellik yoshlarning o'rtasida"
+    ],
+    [
+     "in her late seventies",
+     "yetmish yoshlarning oxirida"
+    ],
+    [
+     "nearly / almost",
+     "deyarli"
+    ],
+    [
+     "approximately / roughly",
+     "taxminan"
+    ],
+    [
+     "dead / alive",
+     "o'lgan / tirik"
+    ],
+    [
+     "bring up",
+     "tarbiyalamoq, katta qilmoq"
+    ],
+    [
+     "grow up",
+     "katta bo'lmoq"
+    ],
+    [
+     "strict",
+     "qattiqqo'l"
+    ],
+    [
+     "allow",
+     "ruxsat bermoq"
+    ],
+    [
+     "let",
+     "ruxsat bermoq (so'zlashuv)"
+    ],
+    [
+     "be allowed to",
+     "... ga ruxsat berilgan bo'lmoq"
+    ],
+    [
+     "in the end",
+     "oxir-oqibat"
+    ],
+    [
+     "at first",
+     "avvaliga"
+    ],
+    [
+     "manage to",
+     "uddalamoq, eplamoq"
+    ],
+    [
+     "stay out late",
+     "kech qolib, uyga kech qaytmoq"
+    ]
+   ]
+  },
+  "15": {
+   "title": "Romance, marriage and divorce",
+   "rows": [
+    [
+     "romance",
+     "romantik munosabat"
+    ],
+    [
+     "date",
+     "uchrashuv (romantik)"
+    ],
+    [
+     "go out with",
+     "... bilan uchrashmoq"
+    ],
+    [
+     "break up",
+     "munosabatni uzmoq"
+    ],
+    [
+     "relationship",
+     "munosabat"
+    ],
+    [
+     "get to know",
+     "tanishib olmoq"
+    ],
+    [
+     "in love",
+     "sevib qolgan"
+    ],
+    [
+     "get engaged",
+     "unashtirilmoq"
+    ],
+    [
+     "engagement",
+     "unashtiruv"
+    ],
+    [
+     "get married",
+     "turmush qurmoq"
+    ],
+    [
+     "ceremony",
+     "marosim"
+    ],
+    [
+     "wedding",
+     "to'y"
+    ],
+    [
+     "reception",
+     "to'y ziyofati"
+    ],
+    [
+     "honeymoon",
+     "asal oyi"
+    ],
+    [
+     "bride",
+     "kelin"
+    ],
+    [
+     "(bride)groom",
+     "kuyov"
+    ],
+    [
+     "pregnant / pregnancy",
+     "homilador / homiladorlik"
+    ],
+    [
+     "be born",
+     "tug'ilmoq"
+    ],
+    [
+     "anniversary",
+     "yubiley, yildonish"
+    ],
+    [
+     "celebration",
+     "bayram, tantana"
+    ],
+    [
+     "celebrate",
+     "nishonlamoq"
+    ],
+    [
+     "go wrong",
+     "xato ketmoq, yomonlashmoq"
+    ],
+    [
+     "on my own / alone",
+     "yolg'iz"
+    ],
+    [
+     "give up",
+     "tashlamoq, voz kechmoq"
+    ],
+    [
+     "leave",
+     "tashlab ketmoq (uyidan)"
+    ],
+    [
+     "get divorced",
+     "ajrashmoq"
+    ],
+    [
+     "marriage",
+     "nikoh, turmush"
+    ],
+    [
+     "a couple of",
+     "bir-ikki"
+    ]
+   ]
+  },
+  "16": {
+   "title": "Daily routines",
+   "rows": [
+    [
+     "wake up",
+     "uyg'onmoq"
+    ],
+    [
+     "wake someone up",
+     "birovni uyg'otmoq"
+    ],
+    [
+     "get up",
+     "o'rnidan turmoq"
+    ],
+    [
+     "go to bed",
+     "uxlagani yotmoq"
+    ],
+    [
+     "go to sleep / fall asleep",
+     "uxlab qolmoq"
+    ],
+    [
+     "straight away",
+     "darhol"
+    ],
+    [
+     "have a late night",
+     "kech yotmoq"
+    ],
+    [
+     "have an early night",
+     "erta yotmoq"
+    ],
+    [
+     "have a sleep",
+     "bir oz uxlab olmoq"
+    ],
+    [
+     "have breakfast",
+     "nonushta qilmoq"
+    ],
+    [
+     "light lunch",
+     "yengil tushlik"
+    ],
+    [
+     "snack",
+     "yengil taom, gazak"
+    ],
+    [
+     "main meal",
+     "asosiy ovqat"
+    ],
+    [
+     "bother to",
+     "zahmat chekmoq"
+    ],
+    [
+     "takeaway",
+     "olib ketiladigan ovqat"
+    ],
+    [
+     "feed",
+     "ovqat bermoq"
+    ],
+    [
+     "have a shower",
+     "dush qabul qilmoq"
+    ],
+    [
+     "have a wash",
+     "yuvinmoq"
+    ],
+    [
+     "clean your teeth",
+     "tish yuvmoq"
+    ],
+    [
+     "put on make-up",
+     "upa-elik qilmoq"
+    ],
+    [
+     "have a bath",
+     "vannada cho'milmoq"
+    ],
+    [
+     "have a shave",
+     "soqol olmoq"
+    ],
+    [
+     "instead of",
+     "... o'rniga"
+    ],
+    [
+     "housework",
+     "uy yumushlari"
+    ],
+    [
+     "cleaner",
+     "farrosh, tozalovchi"
+    ],
+    [
+     "do the washing",
+     "kir yuvmoq"
+    ],
+    [
+     "do the ironing",
+     "dazmollamoq"
+    ],
+    [
+     "make the bed",
+     "o'rin-ko'rpa yig'moq"
+    ],
+    [
+     "do the shopping",
+     "oziq-ovqat xarid qilmoq"
+    ],
+    [
+     "go shopping",
+     "do'konma-do'kon yurmoq"
+    ],
+    [
+     "spare time",
+     "bo'sh vaqt"
+    ],
+    [
+     "stay in",
+     "uyda qolmoq"
+    ],
+    [
+     "go out",
+     "ko'chaga chiqmoq"
+    ],
+    [
+     "eat out",
+     "restoranda ovqatlanmoq"
+    ],
+    [
+     "come round",
+     "mehmonga kelmoq"
+    ],
+    [
+     "chat",
+     "suhbatlashmoq"
+    ],
+    [
+     "fortunately",
+     "baxtimizga"
+    ]
+   ]
+  },
+  "17": {
+   "title": "The place where you live",
+   "rows": [
+    [
+     "location",
+     "joylashuv"
+    ],
+    [
+     "outskirts",
+     "shahar chekkasi"
+    ],
+    [
+     "centre",
+     "markaz"
+    ],
+    [
+     "move",
+     "ko'chib o'tmoq"
+    ],
+    [
+     "space",
+     "joy, bo'sh maydon"
+    ],
+    [
+     "views",
+     "manzara"
+    ],
+    [
+     "rent",
+     "ijaraga olmoq; ijara haqi"
+    ],
+    [
+     "flat (apartment)",
+     "kvartira"
+    ],
+    [
+     "block of flats",
+     "ko'p qavatli uy"
+    ],
+    [
+     "floor",
+     "qavat"
+    ],
+    [
+     "ground floor",
+     "birinchi (yer) qavat"
+    ],
+    [
+     "top floor",
+     "eng yuqori qavat"
+    ],
+    [
+     "downstairs",
+     "pastda, pastki qavatda"
+    ],
+    [
+     "upstairs",
+     "tepada, yuqori qavatda"
+    ],
+    [
+     "lift",
+     "lift"
+    ],
+    [
+     "steps",
+     "zinapoya, pillapoya"
+    ],
+    [
+     "balcony",
+     "balkon"
+    ],
+    [
+     "front door",
+     "old eshik"
+    ],
+    [
+     "air conditioning",
+     "konditsioner"
+    ],
+    [
+     "own",
+     "egalik qilmoq"
+    ],
+    [
+     "cottage",
+     "qishloq uyi, kottej"
+    ],
+    [
+     "charming",
+     "maftunkor"
+    ],
+    [
+     "character",
+     "o'ziga xoslik"
+    ],
+    [
+     "dark / light",
+     "qorong'i / yorug'"
+    ],
+    [
+     "heat",
+     "isitmoq"
+    ],
+    [
+     "central heating",
+     "markaziy isitish"
+    ]
+   ]
+  },
+  "18": {
+   "title": "Around the home",
+   "rows": [
+    [
+     "bedroom",
+     "yotoqxona"
+    ],
+    [
+     "living room",
+     "mehmonxona"
+    ],
+    [
+     "bathroom",
+     "hammom"
+    ],
+    [
+     "dining room",
+     "ovqatlanish xonasi"
+    ],
+    [
+     "study",
+     "ish xonasi"
+    ],
+    [
+     "spare room",
+     "qo'shimcha xona"
+    ],
+    [
+     "utility room",
+     "xo'jalik xonasi"
+    ],
+    [
+     "en-suite bathroom",
+     "yotoqxonaga ulangan hammom"
+    ],
+    [
+     "share",
+     "baham ko'rmoq"
+    ],
+    [
+     "fridge-freezer",
+     "muzlatgichli sovutgich"
+    ],
+    [
+     "freezer",
+     "muzlatgich"
+    ],
+    [
+     "cooker",
+     "plita"
+    ],
+    [
+     "oven",
+     "duxovka"
+    ],
+    [
+     "microwave",
+     "mikroto'lqinli pech"
+    ],
+    [
+     "dishwasher",
+     "idish yuvish mashinasi"
+    ],
+    [
+     "washing machine",
+     "kir yuvish mashinasi"
+    ],
+    [
+     "kettle",
+     "choynak (elektr)"
+    ],
+    [
+     "sink",
+     "oshxona rakovinasi"
+    ],
+    [
+     "(wash)basin",
+     "qo'l yuvgich"
+    ],
+    [
+     "tap",
+     "jo'mrak"
+    ],
+    [
+     "cupboard",
+     "shkaf (oshxonada)"
+    ],
+    [
+     "tiles",
+     "kafel"
+    ],
+    [
+     "sofa",
+     "divan"
+    ],
+    [
+     "armchair",
+     "kreslo"
+    ],
+    [
+     "soft / firm",
+     "yumshoq / qattiq"
+    ],
+    [
+     "cushion",
+     "yostiqcha"
+    ],
+    [
+     "wooden floor",
+     "yog'och pol"
+    ],
+    [
+     "rug",
+     "gilamcha"
+    ],
+    [
+     "carpet",
+     "gilam"
+    ],
+    [
+     "curtains",
+     "pardalar"
+    ],
+    [
+     "blinds",
+     "jalyuzi"
+    ],
+    [
+     "duvet",
+     "momiq ko'rpa"
+    ],
+    [
+     "sheet",
+     "choyshab"
+    ],
+    [
+     "blanket",
+     "adyol"
+    ],
+    [
+     "pillow",
+     "yostiq"
+    ]
+   ]
+  },
+  "19": {
+   "title": "Money",
+   "rows": [
+    [
+     "currency",
+     "valyuta"
+    ],
+    [
+     "sterling",
+     "funt sterling"
+    ],
+    [
+     "dollar",
+     "dollar"
+    ],
+    [
+     "euro",
+     "yevro"
+    ],
+    [
+     "note",
+     "qog'oz pul"
+    ],
+    [
+     "coin",
+     "tanga"
+    ],
+    [
+     "bank account",
+     "bank hisobi"
+    ],
+    [
+     "in credit",
+     "hisobda pul bor"
+    ],
+    [
+     "cashpoint",
+     "bankomat"
+    ],
+    [
+     "cash",
+     "naqd pul"
+    ],
+    [
+     "check",
+     "tekshirmoq"
+    ],
+    [
+     "student loan",
+     "talaba krediti"
+    ],
+    [
+     "loan",
+     "qarz, kredit"
+    ],
+    [
+     "fees",
+     "to'lov (o'qish uchun)"
+    ],
+    [
+     "waste money",
+     "pulni isrof qilmoq"
+    ],
+    [
+     "owe",
+     "qarzdor bo'lmoq"
+    ],
+    [
+     "pay back",
+     "qaytarib to'lamoq"
+    ],
+    [
+     "earn",
+     "pul topmoq"
+    ],
+    [
+     "amount",
+     "miqdor"
+    ],
+    [
+     "save up",
+     "pul yig'moq"
+    ],
+    [
+     "afford",
+     "qurbi yetmoq"
+    ],
+    [
+     "rent",
+     "ijara haqi"
+    ],
+    [
+     "deposit",
+     "garov puli"
+    ],
+    [
+     "value for money",
+     "puliga arzigulik"
+    ],
+    [
+     "charge",
+     "haq olmoq"
+    ],
+    [
+     "hire",
+     "vaqtincha ijaraga olmoq"
+    ],
+    [
+     "accommodation",
+     "turar joy"
+    ],
+    [
+     "landlord",
+     "uy egasi"
+    ]
+   ]
+  },
+  "20": {
+   "title": "Health",
+   "rows": [
+    [
+     "sore throat",
+     "tomoq og'rig'i"
+    ],
+    [
+     "temperature",
+     "isitma"
+    ],
+    [
+     "flu",
+     "gripp"
+    ],
+    [
+     "bleed",
+     "qon ketmoq"
+    ],
+    [
+     "bandage",
+     "bint"
+    ],
+    [
+     "cough",
+     "yo'tal"
+    ],
+    [
+     "cough medicine",
+     "yo'tal dorisi"
+    ],
+    [
+     "chemist",
+     "dorixona"
+    ],
+    [
+     "headache",
+     "bosh og'rig'i"
+    ],
+    [
+     "tablets (pills)",
+     "tabletkalar"
+    ],
+    [
+     "feel sick",
+     "ko'ngli aynimoq"
+    ],
+    [
+     "stomach ache",
+     "qorin og'rig'i"
+    ],
+    [
+     "backache",
+     "bel og'rig'i"
+    ],
+    [
+     "pain",
+     "og'riq"
+    ],
+    [
+     "ache",
+     "og'rimoq, zirqiramoq"
+    ],
+    [
+     "hurt",
+     "og'rimoq"
+    ],
+    [
+     "painful",
+     "og'riqli"
+    ],
+    [
+     "suffer from",
+     "... dan aziyat chekmoq"
+    ],
+    [
+     "serious illness",
+     "og'ir kasallik"
+    ],
+    [
+     "hospital",
+     "kasalxona"
+    ],
+    [
+     "patient",
+     "bemor"
+    ],
+    [
+     "operation",
+     "operatsiya"
+    ],
+    [
+     "surgeon",
+     "jarroh"
+    ],
+    [
+     "surgery",
+     "jarrohlik"
+    ],
+    [
+     "lung cancer",
+     "o'pka saratoni"
+    ],
+    [
+     "heart attack",
+     "yurak xuruji"
+    ],
+    [
+     "hepatitis",
+     "gepatit"
+    ],
+    [
+     "disease",
+     "kasallik"
+    ],
+    [
+     "illness",
+     "dard, betoblik"
+    ],
+    [
+     "liver",
+     "jigar"
+    ],
+    [
+     "lungs",
+     "o'pka"
+    ],
+    [
+     "heart",
+     "yurak"
+    ]
+   ]
+  }
+ }
+}
