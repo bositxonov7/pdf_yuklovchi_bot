@@ -1,105 +1,66 @@
-# 📚 Vocabulary PDF Telegram Bot
+# 📚 Vocabulary PDF Telegram Bot (@pdf_yukla_bot)
 
-Ushbu bot **English Vocabulary in Use (Pre-intermediate and Intermediate)** kitobidan tayyorlangan 2 ta unitdan iborat so'z-tarjima jadvalli PDF fayllarni belgilangan jadval bo'yicha **faqat sizning shaxsiy Telegram chatingizga** yuborib turadi.
-
----
-
-## ⏰ Yuborish Jadvali (Toshkent vaqti, `Asia/Tashkent`)
-- **Kunlar:** Har hafta **yakshanba**, **seshanba**, **payshanba**
-- **Vaqt:** Soat **12:00** da
-- **Tartib:**
-  - 15-noyabr 2026 (Yakshanba) -> 3-4 unit
-  - 17-noyabr 2026 (Seshanba) -> 5-6 unit
-  - 19-noyabr 2026 (Payshanba) -> 7-8 unit
-  - 22-noyabr 2026 (Yakshanba) -> 9-10 unit
-  - ... va 99-100 unitgacha davom etadi.
-- **Qoida fayli:** `schedule.json`
+Ushbu bot **English Vocabulary in Use (Pre-intermediate & Intermediate)** kitobidan tayyorlangan 2 ta unitdan iborat so'z-tarjima jadvalli PDF fayllarni barcha o'rganuvchilarga taqdim etadi.
 
 ---
 
-## 🔒 Xavfsizlik va Shaxsiy Chat
-1. **Faqat shaxsiy chat:** Bot guruhlarga qo'shilmaydi (agar tasodifan qo'shilsa ham avtomatik darhol chiqib ketadi).
-2. **Qabul qiluvchi:** Botga shaxsiy chatda `/start` yuborsangiz, `chat_id` raqamingiz `state.json` fayliga yoziladi va barcha PDF lar shu yerga keladi.
-3. **Admin cheklovi:** `.env` faylida `ADMIN_IDS` ko'rsatilgan bo'lsa, faqat shu foydalanuvchilar `/start` va `/sendnow` qila oladi.
-
----
-
-## 🛡 Ishonchlilik (Reboot-Safe)
-- Barcha yuborilgan PDF lar `state.json` da qayd etiladi.
-- Server o'chib yonsa yoki bot ma'lum vaqt to'xtab qolsa:
-  - Qayta yonganda **2 kungacha** vaqti o'tib ketgan, lekin hali yuborilmagan PDF larni o'zi topib yuboradi.
-  - Hech qanday PDF **ikki marta qayta yuborilmaydi**.
-- Agar jadvaldagi PDF fayli `pdfs/` papkasida bo'lmasa, bot to'xtab qolmaydi, logga xato yozib o'tkazib yuboradi.
+## 🌟 Imkoniyatlar
+1. **Ochiq va Bepul:** Barcha xohlovchilar botdan to'liq va teng foydalanishi mumkin (`/start` orqali obuna bo'lishadi).
+2. **Istalgan unitni yuklab olish:** Jadvalni kutmasdan, istalgan unitni darhol olish mumkin:
+   - Masalan: `/unit 5`, `/unit 24`, `/unit 50`
+   - Shunchaki chatga `25` deb raqam yuborilsa ham bot tushunadi va PDF ni jo'natadi!
+3. **Avtomatik Dars Jadvali:**
+   - **Kunlar:** Har hafta **yakshanba**, **seshanba**, **payshanba**
+   - **Vaqt:** Soat **12:00** da (Toshkent vaqti)
+   - **Navbat:** 3-4, 5-6, 7-8, ... 99-100 gacha.
+4. **Faqat Shaxsiy Chat:** Bot guruh va kanallardan avtomatik chiqib ketadi va o'rganuvchilarga shaxsiy chatda xizmat ko'rsatadi.
+5. **Reboot-Safe:** Server qayta yonganda hech qanday dars takrorlanmaydi, o'tkazib yuborilgan darslar esa avtomatik yetkaziladi.
 
 ---
 
 ## 🕹 Bot Buyruqlari
-- `/start` — Botni shaxsiy chatda faollashtirish va qabul qiluvchi sifatida ro'yxatdan o'tish.
-- `/status` — Yaqin kunlardagi yuborishlar holati (yuborilgan, kutilmoqda, PDF yo'q).
-- `/sendnow <id>` — Sinov uchun darhol PDF yuborish (masalan: `/sendnow units-3-4` yoki `/sendnow units-11-12`).
+
+### O'rganuvchilar uchun:
+- `/start` — Botga obuna bo'lish va salomlashish.
+- `/unit <raqam>` — Istalgan unit PDF faylini darhol yuklab olish (masalan: `/unit 15`).
+- `/list` yoki `/units` — Mavzular va unitlar mundarijasi.
+- `/status` — Darslar jadvali va navbatdagi unitlar holati.
+- `/help` — Foydalanish bo'yicha yordam.
+
+### Admin uchun (`ADMIN_IDS` ga tegishli):
+- `/stats` — Obunachilar soni va tizim statistikasi.
+- `/sendnow <id>` — Istalgan PDF ni barcha obunachilarga darhol tarqatish (masalan: `/sendnow units-3-4`).
+- `/broadcast <xabar>` — Barcha obunachilarga e'lon yoki xabar yuborish.
 
 ---
 
-## 📄 PDF Yaratish (`make_pdfs.py`)
-Barcha 3 dan 100 gacha bo'lgan unitlar `units.json` ga birlashtirilgan.
-- **Barcha 49 ta PDF ni bir vaqtda yaratish:**
-  ```bash
-  ./venv/bin/python make_pdfs.py --all
-  ```
-- **Alohida unitlar uchun yaratish:**
-  ```bash
-  ./venv/bin/python make_pdfs.py 11 12
-  ```
+## ⏰ Jadval Sozlamalari (`schedule.json`)
+```json
+{
+  "start": "2026-11-15",
+  "weekdays": [6, 1, 3],
+  "time": "12:00",
+  "first_unit": 3,
+  "units_per_post": 2,
+  "last_unit": 100,
+  "caption": "📚 Unit {a}-{b}: so'zlar va tarjimalari"
+}
+```
 
 ---
 
-## 🚀 Ubuntu VPS Serverga O'rnatish
+## ☁️ Render.com da 24/7 Uptime (Uyg'oq saqlash)
+Render bepul xizmatlari 15 daqiqadan so'ng uxlab qolmasligi uchun botda ichki HTTP server (`PORT`) va keep-alive worker mavjud. 
 
-### 1-usul: `systemd` orqali (Tavsiya etiladi)
-
-1. **Loyiha fayllarini serverga nusxalash:**
-   ```bash
-   scp -r vocab_bot user@SERVER_IP:/opt/
-   ```
-
-2. **Serverga ulanish va sozlash:**
-   ```bash
-   ssh user@SERVER_IP
-   cd /opt/vocab_bot
-   ```
-
-3. **Python virtual muhitini ochish va kutubxonalarni o'rnatish:**
-   ```bash
-   sudo apt update && sudo apt install -y python3-venv python3-pip
-   python3 -m venv venv
-   ./venv/bin/pip install -r requirements.txt
-   ```
-
-4. **.env faylini tekshirish:**
-   ```bash
-   nano .env
-   # BOT_TOKEN=9293656050:AAEa0XtGRcshtmkDwiVohvfHZn4k75PswQw
-   # ADMIN_IDS=YOUR_TELEGRAM_ID (ixtiyoriy)
-   ```
-
-5. **Systemd servisni yoqish:**
-   ```bash
-   sudo cp vocab-bot.service /etc/systemd/system/
-   sudo systemctl daemon-reload
-   sudo systemctl enable --now vocab-bot
-   ```
-
-6. **Holat va loglarni tekshirish:**
-   ```bash
-   sudo systemctl status vocab-bot
-   sudo journalctl -u vocab-bot -f
-   ```
+100% kafolatli uzluksiz ishlashi uchun:
+1. [cron-job.org](https://cron-job.org) dan bepul ro'yxatdan o'ting.
+2. Cronjob yarating: URL manzilga `https://pdf-yuklovchi-bot.onrender.com` kiriting va har 5 daqiqaga qo'ying.
 
 ---
 
-### 2-usul: `Docker` orqali
-
+## 📄 PDF Fayllarni Yaratish (`make_pdfs.py`)
+Barcha 49 ta PDF fayl `pdfs/` papkasida tayyor holda mavjud.
+Qayta yaratish uchun:
 ```bash
-docker compose up -d --build
-docker compose logs -f
+python3 make_pdfs.py --all
 ```
