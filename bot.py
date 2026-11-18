@@ -56,6 +56,11 @@ MISSING_WARNED: set[str] = set()
 
 # ---------- Render / Cloud Web healthcheck server ----------
 class HealthHandler(BaseHTTPRequestHandler):
+    def do_HEAD(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/plain; charset=utf-8")
+        self.end_headers()
+
     def do_GET(self):
         self.send_response(200)
         self.send_header("Content-type", "text/plain; charset=utf-8")
@@ -66,11 +71,29 @@ class HealthHandler(BaseHTTPRequestHandler):
         pass  # ortiqcha log chiqarmaymiz
 
 
+def self_ping_worker(url: str):
+    import time
+    import urllib.request
+    while True:
+        time.sleep(600)  # har 10 daqiqada
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "VocabBot-KeepAlive/1.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                log.info("Keep-alive self-ping muvaffaqiyatli: status=%s", resp.status)
+        except Exception as e:
+            log.warning("Keep-alive self-ping ogohlantirish: %s", e)
+
+
 def start_health_server(port: int):
     server = HTTPServer(("0.0.0.0", port), HealthHandler)
     t = threading.Thread(target=server.serve_forever, daemon=True)
     t.start()
     log.info("Render/Cloud health server %s-portda ishga tushdi", port)
+
+    # Render URL bo'lsa o'zini o'zi ham uyg'oq tutish uchun ping qilib turadi
+    render_url = os.environ.get("RENDER_EXTERNAL_URL") or "https://pdf-yuklovchi-bot.onrender.com"
+    t_ping = threading.Thread(target=self_ping_worker, args=(render_url,), daemon=True)
+    t_ping.start()
 
 
 # ---------- holat (state) ----------
